@@ -1,0 +1,40 @@
+[background-block=#019AED][center][color=#019aed].[/color]
+[img]http://tspforums.xyz/images/18myskins/logo.png[/img][color=#019aed].[/color][/center][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#fff][b]The Government of the South Pacific[/b][/color][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1042647][color=#fff]This notice is a part of the Southern World Assembly Initiative[/color][/url][/size][/font]
+[color=#38b9ff].[/color][/center][/background-block]
+
+
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=180][color=#1089e6][b]If you are mentioned, please read this![/b][/color][/size][/font][/center]
+
+[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]If you are mentioned in this dispatch, this means your nation is currently residing in [region]the South Pacific[/region] but you are not in [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly[/color][/url] (WA). First of all, welcome to our region! Now to the main part, we recommend you to join the WA as it will give your nation the right to vote on WA resolutions and elections in our region as well as increase your nation's and our region's power on the world stage.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]How to join the World Assembly:[/b][/size][/font]
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Step 1:[/b] Click [b]Settings[/b] at the top, scroll down and enter an email address.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Step 2:[/b] Open [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly page[/color][/url] then click [b]Apply to Join[/b].[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Step 3:[/b] Wait for a few seconds then check your email, you will see a confirmation email from NationStates. Open the link in the email then click [b]Confirm: Join World Assembly[/b]. Now you are in the World Assembly![/size][/font]
+[/list]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]If you have successfully joined the WA then congratulations! After joining the WA, we strongly recommend you to do the following which will further increase your nation's power and influence in this region and on the world stage:[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]- Endorse all of these nations[/b]: To endorse a nation, click a nation name to open its page, scroll down then click the Endorse button.[/size][/font]
+
+[table=noheader][tr][td=5][background-block=#1089e6][hr][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#ffffff][b]WA Delegate[/b][/color][/font][/size]
+[/center][hr][/background-block][/td][/tr][tr][td=5][center][delegate][/center][/td][/tr][tr][td=5][background-block=#1089e6][hr][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#ffffff][b]Member nations of the Council on Regional Security (CRS)[/b][/color][/font][/size][/center][hr][/background-block][/td][/tr][crs_table_list][/table]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]- Endorse all other nations in this region.[/b] Click [url=https://www.nationstates.net/page=dispatch/id=1077661][color=#ff9900]here[/color][/url] to know how to do this quickly and to find nations to endorse.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]To recognize your effort, your nation will receive the title of [url=https://www.nationstates.net/page=dispatch/id=1045928][color=#ff9900]SWAN Knights[/color][/url] and [url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]some awards[/color][/url] if you do the above things![/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Read more about why we recommend you to do all of these [url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]here[/color][/url].[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Note:[/b] You can block this nation in your notification settings if you wish to not receive messages like this.[/size][/font]
+[/box]
+
+[spoiler=List of nations that aren't in the WA]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]List of nations that are not in the World Assembly:[/b][/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=90][nations_notin_wa][/size][/font].
+[/spoiler]
+
+[footer]

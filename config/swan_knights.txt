@@ -1,0 +1,42 @@
+[header]
+
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]SWAN Knights[/b][/color][/size][/font][/center]
+
+[align=justify][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]SWAN Knight[/b] is an honorific title we give to nations that endorse the Delegate and all members of the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url] (CRS). Together with the Delegate and the CRS, they are the main force that protects our region from both internal and external security threats and keep our democratic institutions functioning properly.[/size][/font][/align]
+
+[center][img]https://i.imgur.com/YYU8hxu.png[/img][/center]
+
+[align=justify][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Becoming a SWAN Knight is one of the first and easiest thing you can do to contribute to our great region. By becoming a SWAN Knight, you will help make [region]the South Pacific[/region] a more awesome and secure region![/size][/font][/align]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=100](More information on why becoming a SWAN Knight helps this region [url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]here[/color][/url])[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]What are the benefits for my nation?[/color][/b][/size][/font]
+
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Your nation will be promoted on our dispatch, raising your profile in the region and ensuring you will receive more endorsements faster![/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You will receive the [url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]SWAN Knight award[/color][/url] in our monthly award volume.[/size][/font]
+[/list]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How do I become a SWAN Knight?[/color][/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]It is very easy, just:[/size][/font]
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorse our current Delegate [delegate][/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorse all member nations of the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url]: [crs_list][/size][/font]
+[/list]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]After you have done that, wait for around 24 hours and you will see your name on the list below (you will receive a notification when this happens) and be included in the next monthly award volume.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]Who are the SWAN Knights?[/b][/color][/size][/font]
+
+[table=noheader][tr][td=5][background-block=#1089e6][hr][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#ffffff][b]Number of Knights: [crsdel_num][/b][/color][/font][/size]
+[/center][hr][/background-block][/td][/tr]
+[crsdel_list]
+[/table]
+
+[notes]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6]If you want to know more about the SWAN initiative, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+
+[credit]
+
+[footer]

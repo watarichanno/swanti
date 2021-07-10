@@ -1,0 +1,21 @@
+[background-block=#019AED][center][color=#019aed].[/color]
+[img]http://tspforums.xyz/images/18myskins/logo.png[/img][color=#019aed].[/color][/center][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#fff][b]The Government of the South Pacific[/b][/color][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1042647][color=#fff]This notice is a part of the Southern World Assembly Initiative[/color][/url][/size][/font]
+[color=#38b9ff].[/color][/center][/background-block]
+
+
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=180][color=#1089e6][b]Please endorse our new Delegate [mention_nation][/b][/color][/size][/font][/center]
+
+[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][mention_nation] was elected as our new Delegate after the election which happened recently. To help the transition between our current Delegate [max_in_endo_nation] and the Delegate-elect happen smoothly, please endorse [mention_nation]. If your nation is mentioned on this dispatch, it means you haven't done that yet so please do it![/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]How to endorse a nation:[/b] Click on a nation name to open its page, scroll down, then click the Endorse button.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Your nation will receive the title of [url=https://www.nationstates.net/page=dispatch/id=1045928][color=#ff9900]SWAN Knights[/color][/url] and be mentioned on the [url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]next monthly award volume[/color][/url] if you endorse the Delegate-elect along with members of the Council on Regional Security (CRS): [crs_list].[/size][/font]
+[/box]
+
+[spoiler=List of nations that don't endorse Delegate-elect [mention_nation]]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=130][b]List of nations that don't endorse Delegate-elect [mention_nation][/b][/font][/size]
+[nation_notendo_nation]
+[/spoiler]
+
+[footer]

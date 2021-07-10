@@ -1,0 +1,60 @@
+[header]
+
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]The benefits of participating in SWAN[/b][/color][/size][/font]
+[/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Participating in the Southern World Assembly Initiative will give your own nation and the region as a whole many important benefits that you can't otherwise get. Joining this initiative is one of the first and easiest ways to contribute to this region and have fun in this game! Below are some of the upsides of joining this initiative.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]Have the right to vote on World Assembly resolutions[/b][/color][/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=un][color=#ff9900]The World Assembly[/color][/url] (WA) is a intergovernmental body which creates laws that govern the world (like the United Nations). By joining the World Assembly, you will be able to wield your democratic voice on the international and interregional stage by being able to vote on World Assembly resolutions and propose them (This requires one more thing actually, read below). [/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Aside from directly vote on resolutions, you can also participate in the [url=https://www.nationstates.net/region=the_south_pacific_wa_voting_center][color=#ff9900]Office of WA Legislation[/color][/url] (OWL) and vote on how the Delegate themselves will vote on the resolution and how OWL will recommend the South Pacifican citizens to vote.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]Being able to participate in regional elections of the Local Council and the delegate[/b][/color][/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Joining the World Assembly also makes you become eligible to run or vote in the [url=https://www.nationstates.net/page=dispatch/id=1381890][color=#ff9900]Local Council[/color][/url] elections and delegate elections. Read more about Local Council elections [url=https://www.nationstates.net/page=dispatch/id=1381893][color=#ff9900]here[/color][/url] and delegate elections [url=http://tspforums.xyz/thread-4112.html][color=#ff9900]here[/color][/url].[/size][/font]
+
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]More power and popularity for your nation[/b][/color][/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Joining the World Assembly allows you to do a thing called [b]endorse[/b]. Endorsements are something that you can give to or receive from other nations to show that you like their flag or motto, it is kinda like the "like" button on Facebook or Twitter but it has far more important roles than that.[/size][/font]
+
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]If you endorse other nations, they will (likely) endorse you back. Endorsing everyone is a good way to socialize with others in the region as the more endorsements you give to other nations, the more people will know you and make friends with you.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You will receive promotion in our annual award program. Each month, we give out awards to nations that have been excellent at endorsing. Being promoted will make more people know about you, endorse you, and help boost your popularity and friend number. (Read more about awards [url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]here[/color][/url])[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]If you have more than two (2) endorsements, not only can you vote on WA resolutions but can propose them too![/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The more nations you endorse, the more endorsements you will receive back from them. Having a high endorsement count will not only make you have a shiny gold badge on your nation page that indicates you are in the top 1% of NationStates for nations with most endorsements but make your nation more [i]influential[/i] too.[/size][/font]
+[/list]
+
+[anchor=influence][/anchor]
+[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]What is influence and why does it matter?[/b][/color][/size][/font]
+
+[spoiler=Click to read...]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Influence[/b] is a number that indicates how much soft power your nation has. You can look at it by clicking the [b]Trend[/b] button on your nation page then choosing [b]Influence[/b] in the drop-down box above. [/size][/font]
+
+[center][img]http://i.imgur.com/2hXt4Bq.png[/img][/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]In a nutshell, influence determines how hard it is for the delegate and regional officers to perform a border control action, such as ejecting or banning your nation from the region. Having a high influence is extremely important since it acts as a line of defenses that prevents nations from being ejected or banned if the delegate or regional officers go rogue and attempt to coup. Having a large group of nations with high influence will create a major obstacle to the enemy and provide a strong foothold for factions that try to liberate our region.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Influence naturally and steadily increases no matter what you do as long as your nation has been logged in in the last six (6) days but the rate of increasing can be greatly boosted by having a high endorsement count. The more endorsements you have, the higher the rate of increasing and therefore, the higher your influence will be in the long-run which is very beneficial to the security of our region.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=100]Read more about coups, security threats, and influence [url=https://www.nationstates.net/page=dispatch/id=1049890#faqgamemechanics][color=#ff9900]here[/color][/url].[/size][/font][/spoiler]
+[/box]
+
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]More security, activity, and soft power for our region[/b][/color][/size][/font]
+
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorsing the delegate and [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]the Council on Regional Security[/color][/url] (CRS) will make our region safer. A delegate and a team of CRS nations with high endorsement count will make it harder for enemies to coup, overthrow, or invade our democratic government, disrupt the stability of our region, and the enjoyment of playing this game.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]A delegate with high endorsement count means our region will have more power on the interregional arena. Unlike other nations, the delegate nation can cast a [b]weighted vote[/b] on World Assembly resolutions, which is a vote that has more power than a normal vote. A vote of the delegate is equivalent to 1 + the number of endorsements they have. A delegate that has 1000 endorsements will be able to cast a vote which is worth 1001 regular votes. This means the more endorsements the delegate has, the more powerful their vote and their influence on the world stage are. Since the delegate votes according to how [url=https://www.nationstates.net/region=the_south_pacific_wa_voting_center][color=#ff9900]OWL[/color][/url] voters (yourself if you are a WA member!) vote, more voting power for the delegate means more voting power for your own nation![/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]A region with a lot of nations actively exchanging endorsements is a dynamic and fun region. Exchanging endorsements is one of the many ways people get to know each other in this game and make friends. It makes the community more active and makes the region more appeal to new nations and causes them to migrate to our awesome land of lampshades and [url=https://www.nationstates.net/page=dispatch/id=1040388][color=#ff9900]iced tea[/color][/url]![/size][/font]
+[/list]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can know more about concepts such as [i]invasion[/i] and [i]coup[/i] in our [url=https://www.nationstates.net/page=dispatch/id=1049890#faqgamemechanics][color=#ff9900]FAQ[/color][/url].[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6]If you want to know more about the SWAN initiative, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+
+[credit]
+
+[footer]

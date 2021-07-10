@@ -1,0 +1,132 @@
+[header]
+
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]Statistics[/b][/color][/size][/font][/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Below are some statistics revealing how everything is going with some charts to demonstrate variation through time.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The change of each value is calculated using these formulas:[/size][/font]
+[font=georgia][size=120]Change = Current value - Last value[/font][/size]
+[font=georgia][size=120]Change percentage = Change in value / Last value * 100[/font][/size]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can view the raw data [url=https://docs.google.com/spreadsheets/d/1A9l3AAiBCWle3Vgall2nIPfCvXHzvG2GCXlbo827kzw/edit?usp=sharing][color=#ff9900]here[/color][/url].[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]An archive of data about past delegate transitions can be viewed [url=https://drive.google.com/open?id=1DRDUVedhVsjLMGfnil6vYKakFU9pDgTj][color=#ff9900]here[/color][/url].[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can click on a chart to open its interactive version. You can hover your mouse over the trend lines to get a reading of the statistics at a specific time.[/size][/font]
+
+[box]
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Number of World Assembly nations[/b][/color][/size][/font][/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The following reveal how many nations in the region hold WA membership, the percentage of nations in the region this amounts to and the percentage of South Pacifican WA nations out of all the WA nations in NationStates.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The higher the number, the better.[/size][/font]
+[table][tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Value[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Change[/size][/font][/td][/tr]
+[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]WA nation number[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][wa_nation_num][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][wa_nation_num_change][/size][/font][/td][/tr]
+[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Percentage of regional nations:[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][perc_wa_regional_nation_num] %[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][perc_wa_regional_nation_num_change][/size][/font][/td][/tr]
+[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Percentage of NationStates WA nations:[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][perc_wa_ns_wa] %[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][perc_wa_ns_wa_change][/size][/font][/td][/tr][/table]
+
+[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=292454830&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=292454830&format=image[/img][/url][/center]
+[/box]
+
+
+[box]
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Number of nations[/b][/color][/size][/font][/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The following reveal how many nations currently reside in the region.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The higher the number, the better.[/size][/font]
+[table][tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Value[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Change[/size][/font][/td][/tr]
+[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Regional nation number[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][regional_nation_num][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][regional_nation_num_change][/size][/font][/td][/tr]
+[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Percentage of NationStates nations[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][perc_regional_nation_num_ns] %[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][perc_regional_nation_num_ns_change][/size][/font][/td][/tr]
+[/table]
+
+[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=1363469627&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=1363469627&format=image[/img][/url][/center]
+[/box]
+
+[box]
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Endorsement count of Delegate [max_in_endo_nation][/b][/color][/size][/font][/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The following reveal how many endorsements the Delegate currently has and the percentage of World Assembly nations that are endorsing the Delegate.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The higher the number, the better.[/size][/font]
+[table][tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Value[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Change[/size][/font][/td][/tr]
+[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Delegate's endorsement count[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][max_in_endo_num][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][max_in_endo_num_change][/size][/font][/td][/tr]
+[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Percentage of WA nations[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][perc_max_in_endo_num_wa] %[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][perc_max_in_endo_num_wa_change][/size][/font][/td][/tr]
+[/table]
+
+[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=840874794&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=840874794&format=image[/img][/url][/center]
+[/box]
+
+[box]
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Endorsement statistics of CRS members[/b][/color][/size][/font][/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The following reveal how many endorsements each member of the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url] (CRS) currently has and the average of the number.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The higher the number, the better.[/size][/font]
+[table][tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorsement count[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Change[/size][/font][/td][/tr]
+[crs_census]
+[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Average[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][crs_avg_in_endo_num][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][crs_avg_in_endo_num_change][/size][/font][/td][/tr]
+[/table]
+
+[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=421962438&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=421962438&format=image[/img][/url][/center]
+[/box]
+
+[box]
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Endorsement statistics of SPCG members[/b][/color][/size][/font][/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The following reveal how many endorsements each member of the [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url] (SPCG) currently has and the average of the number.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The higher the number, the better.[/size][/font]
+[table][tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorsement count[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Change[/size][/font][/td][/tr]
+[SPCG_census]
+[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Average[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][SPCG_avg_in_endo_num][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][SPCG_avg_in_endo_num_change][/size][/font][/td][/tr]
+[/table]
+
+[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=1376189038&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=1376189038&format=image[/img][/url][/center]
+[/box]
+
+[box]
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Number of SWAN Knights[/b][/color][/size][/font][/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The following  reveal how many nations are [url=https://www.nationstates.net/page=dispatch/id=1045928][color=#ff9900]SWAN Knights[/color][/url] - nations that endorse the Delegate and all members of the Council on Regional Security - and the percentage of SWAN Knights compared to the total number of WA nations in the region.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The higher the number, the better.[/size][/font]
+[table][tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Value[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Change[/size][/font][/td][/tr]
+[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Number of SWAN Knights[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][crsdel_num][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][crsdel_num_change][/size][/font][/td][/tr]
+[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Percentage of WA nations[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][perc_crsdel_num_wa] %[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][perc_crsdel_num_wa_change][/size][/font][/td][/tr]
+[/table]
+
+[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=317117507&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=317117507&format=image[/img][/url][/center]
+[/box]
+
+[box]
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Total number of endorsements[/b][/color][/size][/font][/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The following reveal how many endorsements are existing in the region along with the cross-endorsement rate (Endorsement saturation value):[/font][/size]
+
+[font=georgia][size=140]d = e / n(n+1) * 100[/font][/size]
+[list]
+[*][font=georgia][size=130]d = cross-endorsement rate (%)[/font][/size]
+[*][font=georgia][size=130]e = total number of endorsements[/font][/size]
+[*][font=georgia][size=130]n = number of nations in the region[/font][/size]
+[/list]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]In laymans terms:[/b] The percentage of the total number of endorsements currently existing compared to the total number of endorsements that [i]would[/i] exist if all nations endorsed each other perfectly.[/font][/size]
+
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The higher the number, the better.[/size][/font]
+[table][tr][td][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Value[/font][/size][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Change[/size][/font][/td][/tr]
+[tr][td][b][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Total number of endorsements[/font][/size][/b][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][endo_num][/font][/size][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][endo_num_change][/font][/size][/td][/tr]
+[tr][td][b][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Cross-endorsement rate[/b][/font][/size][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][density_num] %[/font][/size][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][density_num_change][/font][/size][/td][/tr]
+[/table]
+
+[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=718820528&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=718820528&format=image[/img][/url][/center]
+[/box]
+
+[notes]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6]If you want to know about the technical details of the statistics, please read[/color] [url=https://www.nationstates.net/page=dispatch/id=1049890#faqtech][color=#ff9900]this[/color][/url][color=#1089e6]. If you want to know more about the SWAN initiative in general, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+
+[credit]
+
+[footer]

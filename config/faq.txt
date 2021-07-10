@@ -1,0 +1,221 @@
+[header]
+
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]Frequently and Infrequently Asked Questions[/b][/color][/size][/font]
+[/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Here are answers to some frequently asked questions as well as some infrequent ones.[/size][/font]
+
+[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][b]Table of Contents[/b][/size][/font]
+[list=1]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=#faqgeneral][color=#ff9900]General[/color][/url][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Contains general questions and issues.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=#faqdata][color=#ff9900]Data[/color][/url][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]About statistics and censuses.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=#faqhistory][color=#ff9900]History[/color][/url][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]About the history of this initiative.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=#faqstaffs][color=#ff9900]Staffs[/color][/url][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]About the people who are running this initiative and how to contact them.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=#faqgamemechanics][color=#ff9900]Game mechanics[/color][/url][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Some information about the delegate, endorsements, invasions, coups, and influence.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=#faqtech][color=#ff9900]Technical matters[/color][/url][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]About the technical infrastructure that automates our initiative.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=#faqportrait][color=#ff9900]Portrait[/color][/url][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]About the Portrait of the South Pacific.[/size][/font]
+[/list][/box]
+
+[anchor=faqgeneral][/anchor]
+[background-block=#1089e6][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][color=#ffffff][size=170][b]General[/b][/size]
+[size=120]This part ontains general questions and issues[/size][/color][/font][/background-block]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How do I do X?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Firstly, you should read our [url=https://www.nationstates.net/page=dispatch/id=1048440][color=#ff9900]how-to guide[/color][/url] which covers everything you need to know to participate this initiative. You can also read [url=https://www.nationstates.net/page=faq][color=#ff9900]the game's FAQ[/color][/url] for answers to more questions. If these along with this FAQ don't solve your questions, consider [url=https://www.nationstates.net/page=dispatch/id=1050817][color=#ff9900]contacting us[/color][/url].[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]I didn't receive a World Assembly invitation email![/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]From [url=https://www.nationstates.net/page=faq][color=#ff9900]the NationStates FAQ:[/color][/url][/size][/font]
+[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]First, check your nation settings and make sure that you have entered an e-mail address, and that the address is correct. If it is, your e-mail is probably being blocked by an anti-spam filter. This might be something in your e-mail client, but more likely is a program running on your ISP's server. Anti-spam filters aren't perfect, and so sometimes block e-mail from NationStates. Unfortunately, there's not much you can do about this.[/size][/font][/box]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How do I disable the notifications that occur when dispatches mention my nation?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Click [b]Notices[/b] at the top bar, click [b]Subscriptions[/b] at the top right corner, uncheck [b]Dispatch Mention[/b], and then click [b]Update[/b].[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Do the awards have any real value?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]In theory, they only have spiritual value. But practically, they give you the advantage of popularity. Award volumes are published in areas people will easily see, so if you are featured on them, you will receive a great promotion and people will know you, endorse you, and maybe even make friends with you. The advantage of popularity is crucial if you want to, for example, win elections. ([url=https://www.nationstates.net/page=dispatch/id=1381893][color=#ff9900]Local Council elections[/color][/url])[/font][/size]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]What can I do to further promote myself aside from getting awards?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can write dispatches to show off your awards or anything else about your nation. To do that, click [b]Dispatches[/b] in the left bar, click the [b]Write Dispatch[/b] button at the top-right, choose your preferred category, enter the title and write away! Formatting can be done with a modified version of BBCode specific to NationStates; you can find a guide [url=https://www.nationstates.net/page=dispatch/id=330837][color=#ff9900]here[/color][/url]. After that, just click [b]Post[/b].
+You can also be active chatting with other nations on [url=https://www.nationstates.net/page=display_region_rmb/region=the_south_pacific][color=#ff9900]our Regional Message Board (RMB)[/color][/url]. Make sure to read the [url=https://www.nationstates.net/page=dispatch/id=991786][color=#ff9900]the RMB Etiquette[/color][/url].
+And speaking of the Regional Message Board, you can also post on the Regional Message Board of [region]Knowhere[/region], which is a region specifically for short-form roleplaying by nations in the South Pacific.[/font][/size]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Where can I find the logos, award badges, and other graphics used by this initiative?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can check out our [url=https://tspimg.imgur.com][color=#ff9900]Imgur account[/color][/url].[/size][/font]
+
+[anchor=faqdata][/anchor]
+[background-block=#1089e6][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][color=#ffffff][size=170][b]Data[/b][/size]
+[size=120]About statistics and censuses[/size][/color][/font][/background-block]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How do you collect the data?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]All data comes from [url=https://www.nationstates.net/pages/api.html#dumps][color=#ff9900]the daily data dump[/color][/url], which is a record of many statistics and census values of all nations and regions at a certain point in time. Most of the data processing is done by a Python library called [url=https://networkx.github.io/][color=#ff9900]NetworkX[/color][/url]. The data is archived in a [url=https://www.sqlite.org/index.html][color=#ff9900]SQLite[/color][/url] database.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Why do you show only a certain number of nations on the censuses?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]NationStates dispatches have a maximum character limit. Displaying all nations on the census dispatches would quickly exceed this limit, as there are hundreds (and, hopefully soon, thousands) of nations to show.[/font][/size]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Are there any known flaws in the calculations?[/b][/size][/font]
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The number of endorsements given out will, for some nations, be lower that it should be on the [url=https://www.nationstates.net/page=dispatch/id=1043692][color=#ff9900]endotarting census[/url][/color].[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The number of nations endorsing on the [url=https://www.nationstates.net/page=dispatch/id=1043681][color=#ff9900]number of nations endorsing census[/color][/url] may drop even though there are no endorsement withdrawals.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Numbers that indicate changes on various [url=https://www.nationstates.net/page=dispatch/id=1043675][color=#ff9900]censuses[/color][/url] and [url=https://www.nationstates.net/page=dispatch/id=1043852][color=#ff9900]statistics[/color][/url] are slightly off.[/size][/font]
+[/list]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The values are off by only a small margin (around 1-10 from the real value) so it shouldn't be a problem for the award rankings.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Why did my number on the [url=https://www.nationstates.net/page=dispatch/id=1043681][color=#ff9900]number of nations endorsing census[/url][/color] drop even though I didn't withdraw my endorsement from anyone?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]A nation you endorsed left the region or resigned from the World Assembly, which makes the endorsement invalid. A nation can only endorse another nation if both of them are in the World Assembly and in the same region.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Why do I only see 2 endorsements on the [url=https://www.nationstates.net/page=dispatch/id=1043692][color=#ff9900]endotarting census[/url][/color] even though I endorsed 10 nations?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]This is because the software that manages this initiative does not track things in real time. The data comes from [url=https://www.nationstates.net/pages/api.html#dumps][color=#ff9900]the daily data dump[/color][/url], which is generated every 24 hours. Therefore, if you endorse a nation and then that nation leaves the region or resigns from the World Assembly before the data dump is updated, the endorsement won't be recorded. This explanation applies to other similar errors such as the change values you see on the [url=https://www.nationstates.net/page=dispatch/id=1043685][color=#ff9900]endorsement count[/color][/url], the [url=https://www.nationstates.net/page=dispatch/id=1043681][color=#ff9900]number of nations endorsing[/color][/url] censuses, and the [url=https://www.nationstates.net/page=dispatch/id=1043852][color=#ff9900]statistics[/color][/url] dispatch.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Will the problems be addressed?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Yes. In the near future, we will switch from using the data provided by the daily data dump to data provided by [url=https://www.nationstates.net/pages/api.html][color=#ff9900]the game's API[/color][/url] since it updates in near real-time.[/size][/font]
+
+[anchor=faqstaffs][/anchor]
+[background-block=#1089e6][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][color=#ffffff][size=170][b]Staffs[/b][/size]
+[size=120]About the people who are running this initiative and how to contact them[/size][/color][/font][/background-block]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Who is running this?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]This initiative is informally organized and run by a group of government institutions and individuals. Generally, the following institutions and individuals participate in the everyday running of this initiative:[/size][/font]
+
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=901709][color=#ff9900]Ministry of Regional Affairs[/color][/url]: They handle the direction, promotion and theme of this initiative on both gameside and forumside.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The delegate ([delegate]) and [url=https://www.nationstates.net/page=dispatch/id=1381890][color=#ff9900]the Local Council[/color][/url]: They are the one who directly communicate with residents of the region about this initiative.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url]: They are mainly responsible for security-related matters.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Some notable individuals: [nation]United States of Vietnam[/nation] (gameside technical matters and content of the dispatches), [nation]Aumeltopia[/nation] (graphics and formatting standard of the dispatches),...[/size][/font]
+[/list]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Who participated in the creation of this initiative?[/b][/size][/font]
+
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The main theme was created by Seraph ([nation]Erinor[/nation]).[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The award badges, logos, and formatting guideline were created by Somyrion ([nation]Aumeltopia[/nation]).[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The software that runs the initiative was developed by USoVietnam ([nation]United States of Vietnam[/nation]).[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Ideas for the awards were contributed by Seraph ([nation]Erinor[/nation]), Nakari ([nation]Nakarisaune[/nation]), and [nation]Escade[/nation].[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The dispatches were written by USoVietnam ([nation]United States of Vietnam[/nation]) with proofreading and additional content provided by [nation]Tsunamy[/nation], [nation]Roavin[/nation], Seraph ([nation]Erinor[/nation]), and [nation]Pencil Sharpeners 2[/nation].[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Advisers on security-related matters: [nation]Farengeto[/nation], [nation]Kringalia[/nation], [nation]Tsunamy[/nation], [nation]Pencil Sharpeners 2[/nation], [nation]Sandaoguo[/nation].[/size][/font]
+[/list]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]This initiative would not be running if it wasn't for the valuable advice from our friends in [region]the North Pacific[/region], most notably Asta ([nation]SillyString[/nation]) and [nation]McMasterdonia[/nation]. [/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]And finally, the original idea behind this initiative as well as similar initiatives such as [url=https://www.nationstates.net/page=dispatch/id=338370][color=#ff9900]the North Pacific's World Assembly Development Program[/color][/url] and [url=https://www.nationstates.net/page=dispatch/id=426900][color=#ff9900]Europeia's World Assembly Advancement Program[/color][/url] came from [nation]r3naissanc3r[/nation].[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How do I contact the staff?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Please read [url=https://www.nationstates.net/page=dispatch/id=1050817][color=#ff9900]this[/color][/url].[/size][/font]
+
+[anchor=faqhistory][/anchor]
+[background-block=#1089e6][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][color=#ffffff][size=170][b]History[/b][/size]
+[size=120]About the history of this initiative[/size][/color][/font][/background-block]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Why was the SWAN initiative created?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The idea came up in December 2017. The South Pacific was the feeder (regions where nations are founded) with the lowest endorsement count on the World Assembly Delegate. This low endorsement count severely lowered our voting power and influence on the world stage at the time, and our endorsement cap was similarly low to avoid security problems. All of this hurt the region's activity and attraction to new World Assembly (WA) nations. To change this situation, a World Assembly program like in [region]The North Pacific[/region] was suggested. Such a program encourages nations to join [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly[/color][/url] and endorse each other via the usage of [strike]propaganda[/strike] positive encouragement messages and awards.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How was this project planned and organized?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]There was no strict schedule, and for much of the time it was rather a hobby than a formal obligation (a program like this is not required by South Pacifican legislation). The development history of the initiative can be summarized as follow:[/size][/font]
+
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Mid-January 2018:[/b] The development of the software that helps automate many tasks of this initiative started. At this point in time, it could already do basic data analysis and upload that analysis to a dispatch.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]End of January 2018:[/b] The software can render a crude image with no background or annotations. At this point, it already had proper color and size mapping for nations.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Start of February 2018:[/b] The generated image now had proper background and annotations.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]End of February 2018:[/b] The generated image could now be automatically uploaded to Imgur. Integration with a Google Spreadsheet was also added.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]March 2018:[/b] Finished integration of SQLite to archive data of nations for awards. Started collecting data every day for testing.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Apri 2018l: [/b][url=https://www.nationstates.net/page=dispatch/id=1009211][color=#ff9900]The first award[/color][/url] was published for testing purposes.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]End of May 2018:[/b] Fixed various bugs that caused some nations that resided outside of the South Pacific to make their way into our data. Nations that resigned from WA are now removed from the data archive. Added support for multiple dispatch updating. Added some percentage statistics and census generating capability. There was some discussion with people from [region]the North Pacific[/region] to get more ideas and advice.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Start of June 2018:[/b] Formal planning began with the Ministry of Regional Affairs, the Delegate, the Council on Regional Security, and some other government officials. Changed the strategy of calculating the number of endorsements given by a nation to increase accuracy. The high-resolution version of Portrait images were now being uploaded to Google Drive.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Mid June 2018:[/b] Started writing dispatches for the initiative. Added numbers that indicate how statistics variate. Began working on the graphics used by this initiative.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]End of June 2018:[/b] Dispatch writing was finished, and the proofreading process began.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Begin of July 2018:[/b] Added new features like highlighting endorsement cap violators and monitoring Delegate transitions.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]End of July 2018:[/b]Finished proofreading and graphics. Released a test award volume on July 26[sup]th[/sup]. Began integration tests of the main system on July 27[sup]th[/sup].[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]August 1[sup]st[/sup], 2018:[/b] The official launch![/size][/font]
+[/list]
+
+[anchor=faqgamemechanics][/anchor]
+[background-block=#1089e6][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][color=#ffffff][size=170][b]Game mechanics[/b][/size]
+[size=120]Some information about delegate, endorsements, invasions, coups, and influence[/size][/color][/font][/background-block]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Who is the WA Delegate, and why is the position such a big deal?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The WA Delegate of a region is the nation with the most endorsements in that region. The Delegate has total administrative power over the region. They can edit the region's World Factbook Entry (WFE), change the flag, suppress messages on the Regional Message Board (RMB), ban and/or eject nations from the region, establish/withdraw embassies to other regions, and much more (note that user-created regions with an active founder may not have a WA Delegate position with full executive powers - this does not apply to [region]the South Pacific[/region], though). Since the WA Delegate has so much power, the job is crucial for regional security purposes. Next to the WA Delegate, regions can have multiple regional officers. These are nations that have specific powers, granted by the Delegate, related to their job (for example, the nation that is responsible for foreign affairs can be granted only the embassy management power, as this is needed for their job). In the South Pacific, the regional officers are usually elected government officials. A list of them along with their administrative powers is available [url=https://www.nationstates.net/page=region_admin/region=the_south_pacific][color=#ff9900]here[/color][/url].[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How can a nation become the Delegate?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]A nation will automatically become the Delegate of a region when it has the highest endorsement count in that region. Please note that this process doesn't happen immediately, but rather the Delegate is calculated by the game twice a day (see below for more information). That is only the mechanical process, however - [i]choosing[/i] who to put into the delegacy [i]using[/i] the mechanical means is different (see below).[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How do you choose who will become the delegate?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]In large regions such as the South Pacific, choosing the Delegate purely by whoever manages to rack up the highest endorsement count is not feasible, as a nation with bad intentions can gather many endorsements from nations that are unaware to launch themselves into the delegacy and abuse their powers. The game mechanic is just a tool for making a nation the Delegate, but deciding who the Delegate will be is typically done using other means. There are regions that have a monarchic system of government, in which the presiding Delegate or a defined "leader" decides who the next delegate will be. Democratic regions, such as the South Pacific, will usually hold elections in some fashion to decide who the next Delegate should be. You can read more about our elections [url=http://tspforums.xyz/thread-4112.html][color=#ff9900]here[/color][/url]. Once an election decides who the next delegate should be, the government will tell nations to endorse the nation that won the election so that their endorsement count will be the highest in this region, and the game will then make them the Delegate of the region.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]When does the Delegate transition happen?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The delegate transition in all regions only happens at a period called [b]the update[/b] of the game. There are two such periods in a day, called [b]major update[/b] which occurs at 12 AM EST for roughly an hour, and [b]minor update[/b] which occurs at 12 PM EST for roughly 45 minutes. These are when the game updates data that it doesn't track in real-time, and includes the influence of nations, what nation should be the Delegate of a region, and more.[/size][/font]
+[anchor=faq_question_invasion][/anchor]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]What are invasions? Raids? Coups?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]A nation automatically becomes the delegate of a region when it has the most endorsements in that region. A nation or a bunch of nations can organize so that their endorsement count becomes higher than the current delegate and therefore, overthrow the region. A raw brute-force takeover of a region in this way is called an [b]invasion[/b] or a [b]raid[/b]. When nations organize to have other nations in the region endorse them to take over the Delegacy in a way that is not lawful in that region, or when a nation becomes Delegate legally but then decides to overthrow the government with their position, is called a [b]coup[/b]. Usually, coups are accompanied by revolutionary propaganda and such. [/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Coups or invasions on a large region with more than 500 nations are rare, typically occuring only about once every 1-2 years. However, invasions of smaller regions happen every day as part of [i]military gameplay[/i].[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How can a coup or invasion be defeated?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]In a nutshell, just make the old overthrown delegate or another reliable nation that sides with you have the delegacy again by making their endorsement count higher than the enemy Delegate. This sounds easy but it is extremely hard and requires real planning and strategy. The difficulty is significantly reduced when the region has many friendly nations with a high endorsement count and high influence.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]If you are interested in invasions and defending regions from invasion, consider participating in military gameplay by joining a military such as our [url=http://tspforums.xyz/thread-5572.html][color=#ff9900]South Pacific Special Forces[/color][/url].[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]What is the influence thing and how does it work?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Please read the [url=https://www.nationstates.net/page=dispatch/id=1050443#influence][color=#ff9900]benefits dispatch[/color][/url] which explains this.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Why does having many high endorsement count and high influence friendly nations help us defeat coups and invasions?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]A ban or an ejection from a region costs the nation an amount of influence proportional to the amount of influence that the nation to be banned or ejected has. Therefore, nations with a high endorsement count will have more influence, which in turn will be harder to ban and/or eject by an invader or couper. Furthermore, having many nations with a high endorsement count means that there are many candidate nations that can be used by the liberating forces to usurp the invader or couper. [/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How exactly does the influence count increase?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]It is known that a nation with no endorsement or World Assembly membership that was logged in no later than 6 days ago will have the influence increases by 1 naturally over time. If a nation has endorsements, the increase rate is 1 + endorsement count. The increase happens at update times of the game. There are two updates per day, so influence will change 2 times a day.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Why does my influence drop?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]It is usually because:[/size][/font]
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You aren't in the World Assembly anymore, or have significantly fewer endorsements, so your influence will decay to a certain point.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You have stayed in another region and then migrated here. (This is an "illusion", read the question below for more information)[/size][/font]
+[/list]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Overall, this will only happen if you have a relatively high influence count, more than 5000.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Why does migrating from one region to another region reduce my influence?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Actually, it doesn't! Internally, a nation has many influence scores, one for each region it has stayed in. A nation that has been in region A and B can have, for example, 120 influence in A and 90 influence in B. The number you see on the chart opened using the [b]Trend[/b] button on the nation page, which is called the [b]Soft Power Disbursement Rating[/b] (SPDR), is actually the sum of all these influence counts, not the influence count of your nation in the region your nation is currently in. When you leave a region, the influence count of your nation [b]in the old region[/b] decays, while at the same time, the influence count [b]in the new region[/b] increases. If you have accumulated a lot of influence is the old region, when you migrate to a new one, if the influence gain in the new region is smaller than the influence drop in the old region, the SPDR number will go down. Eventually, the gain will be larger than the loss and the SPDR number will go up again.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Only the influence you have in this region matters. The old influence is useless for this region, so you shouldn't care too much about it. The SPDR number is just the sum of all of them, so it is only a good measure of your current influence level in this region if you don't have influence in any other region.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]I want to know more about influence![/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can read [url=https://www.nationstates.net/page=influence][color=#ff9900]this article[/url][/color].[/size][/font]
+
+
+[anchor=faqtech][/anchor]
+[background-block=#1089e6][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][color=#ffffff][size=170][b]Technical matters[/b][/size]
+[size=120]About the technical infrastructure that automates our initiative[/size][/color][/font][/background-block]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]So, what exactly is the tech thing?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]It is a small piece of software written in Python which automates many tasks such as recording endorsements of nations and collecting various statistics of the region. In short, any task which is too overwhelming to do by a human.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Where can I get the software?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Because the current software is just an experiment rather than something properly designed to be user-friendly, it is not released publicly at the moment. However, you can contact [nation]United States of Vietnam[/nation] to get it.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Why does everything update every 24 hours?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The software collects data from [url=https://www.nationstates.net/pages/api.html#dumps][color=#ff9900]the daily data dump[/color][/url], a big file that contains data of every nation in the game. This file is updated every 24 hours by the game so the software can only run once a day to update the dispatches with new data.[/size][/font].
+
+[anchor=faqportrait][/anchor]
+[background-block=#1089e6][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][color=#ffffff][size=170][b]Portrait[/b][/size]
+[size=120]About the Portrait of the South Pacific[/size][/color][/font][/background-block]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How should I open the high-resolution version of the Portrait?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Any image viewing utility or the image previewer of Google Drive should be able to open it. However, if you want to be able to zoom or move around without lagging or blurring, you need a more specialized viewer such as [url=https://nomacs.org/][color=#ff9900]nomacs[/color][/url]. You can also use Microsoft Paint, as it handles large image files quite well.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How is the Portrait created?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The Portrait (Called a [b]graph[/b] in graph theory terminology) is created automatically by a graph drawing software called [url=https://www.graphviz.org/][color=#ff9900]Graphviz[/color][/url]. The software which runs this initiative feeds the data of nations from the daily data dump to Graphviz for drawing. The result is a raw image with circles and lines but with no annotation or a solid background. The grey background along with the annotation text are added in post-processing by a Python image processing library called [url=https://pillow.readthedocs.io/en/5.1.x/][color=#ff9900]Pillow[/color][/url].[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]What layout algorithm does the Portrait use?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The implementation of force-directed spring-model algorithm based on the [url=http://ozmhkse3b.bkt.clouddn.com/paper/ktall/Z%202424%20-%201989%20-%20AN%20ALGORITHM%20FOR%20DRAWING%20GENERAL%20UNDIRECTED%20GRAPHS.pdf][color=#ff9900]approach of Kamada and Kawai[/color][/url] by the graph drawing software Graphviz (neato) is used.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How long does it take to render the Portrait?[/b][/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]At 8000x6000 resolution, with an Intel Core i3 Sandy Bridge with 2 cores and 3.3Ghz clock speed, it usually takes around 2 to 3 minutes to render the raw image. Post-processing takes up an additional time of around 6 seconds.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6]If you want to know more about the SWAN initiative, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+
+[credit]
+
+[footer]

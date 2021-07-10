@@ -1,0 +1,7 @@
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]A few notes:[/b][/color][/size][/font]
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Everything is updated every 24 hours so you need to wait for any change in the data to happen.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]This initiative is still very experimental so if you see any inaccuracies, errors, or have ideas for improvements, please [url=https://www.nationstates.net/page=dispatch/id=1054970][color=#ff9900]contact us[/color][/url].[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Only nations in [region]the South Pacific[/region] are included for obvious reasons.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]There are some minor inaccuracies in the data, read [url=https://www.nationstates.net/page=dispatch/id=1049890#faqdata][color=#ff9900]this[/color][/url] for more information.[/size][/font]
+[/list]

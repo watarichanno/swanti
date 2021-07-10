@@ -1,0 +1,17 @@
+[header]
+
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]News about SWAN[/b][/color][/size][/font]
+[/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Here is a list of the news dispatches relating to this initiative that we have posted over time.  These include the various updates and general information about the initiative given to South Pacificans.[/size][/font]
+
+[box][list=1]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1069785][color=#ff9900]SWAN has finally launched![/color][/url][/size][/font]
+[/list]
+[/box]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6]If you want to know more about the SWAN initiative, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+
+[credit]
+
+[footer]

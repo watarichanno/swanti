@@ -1,0 +1,31 @@
+[header]
+
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]Endorse everyone in this region the fast way![/b][/color][/size][/font]
+[/center]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]One of the easiest ways to get [url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]awards[/color][/url], increase your nation's endorsement count and influence very quickly (The first step if you want to join the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url]) is to endorse a lot of nations in this region, this activity is called [b]endotarting[/b]. However, not many people know how to do that efficiently and end up getting bored. In this guide, you'll learn how to endotart the fast way![/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]The steps:[/color][/b][/size][/font]
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Step 1:[/b] Install a browser extension that provides keyboard shortcuts for NationStates such as [url=https://chrome.google.com/webstore/detail/nsbreeze/hodpmjjbaiacgdjlgebeapapfojemlgo][color=#ff9900]NSBreeze[/color][/url] or [url=https://chrome.google.com/webstore/detail/breeze%20%20/fmidibfpgbmcmnfedlafdfcbmglbckkf][color=#ff9900]Breeze++[/color][/url] (Please note that Breeze++ is for players who are into something called [i]military gameplay[/i] so you may want to just use NSBreeze instead). These two extensions are only available for Google Chrome at this time though.[/size][/font] 
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Step 2:[/b] Click on a bunch of nations on the list below using the middle mouse button or pressing your trackpad with three fingers to open them in individual tabs.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Step 3:[/b] Press the [b]E[/b] key on your keyboard to endorse the nation in a tab.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Step 4:[/b] Use [b]Ctrl+Tab[/b] to switch to another tab and repeat step 3.[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Step 5:[/b] Use [b]Ctrl+W[/b] to close tabs.[/size][/font]
+[/list]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Optional: [/b] Each time you endorse a nation, send a telegram to ask that nation to endorse you back.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can endorse a lot of nations (dozens of them) in a few minutes with this method. Just open a bunch of nations in each tab, use Ctrl+Tab to switch through them fast and each time you switch through, press E to endorse a nation.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The order of nations on the list below does not change so if you feel too tired, you can pause, remember the nation where you pause and resume your endotarting work later from that nation.[/size][/font]
+
+[table=noheader][tr][td][background-block=#1089e6][hr][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#ffffff][b]List of nations to endorse[/b][/color][/font][/size]
+[/center][hr][/background-block][/td][/tr]
+[tr][td][wa_nations][/td][/tr]
+[/table]
+
+
+[credit]
+
+[footer]
