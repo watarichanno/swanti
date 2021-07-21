@@ -13,8 +13,8 @@
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Your nation will receive the title of [url=https://www.nationstates.net/page=dispatch/id=1045928][color=#ff9900]SWAN Knights[/color][/url] and be mentioned on the [url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]next monthly award volume[/color][/url] if you endorse the Delegate-elect along with members of the Council on Regional Security (CRS): [crs_list].[/size][/font]
 [/box]
 
-[spoiler=List of nations that don't endorse Delegate-elect [mention_nation]]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=130][b]List of nations that don't endorse Delegate-elect [mention_nation][/b][/font][/size]
+[spoiler=List of nations that haven't endorsed Delegate-elect [mention_nation]]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=130][b]List of nations that haven't endorsed Delegate-elect [mention_nation][/b][/font][/size]
 [nation_notendo_nation]
 [/spoiler]
 
