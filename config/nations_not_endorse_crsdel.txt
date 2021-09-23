@@ -4,20 +4,23 @@
 [color=#38b9ff].[/color][/center][/background-block]
 
 
-[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=180][color=#1089e6][b]If you are mentioned, please read this![/b][/color][/size][/font][/center]
+[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=180][color=#1089e6][b]Please read this if you just join the World Assembly![/b][/color][/size][/font][/center]
 
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]If you are mentioned in this dispatch, this means your nation is currently in the World Assembly, thank you a lot for joining the World Assembly and helping this region! However, [b]you are not endorsing all of the following:[/b][/size][/font]
+[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]If you are mentioned in this dispatch, this means your nation is currently in the World Assembly and in [region]the South Pacific[/region], thank you a lot for joining the World Assembly and helping our region! With your nation in the WA, the first thing you should do is endorsing the Delegate and all member nations of the CRS.[/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]How to endorse a nation:[/b] Click on a nation name to open its page, scroll down, then click the Endorse button.[/size][/font]
 
 [table=noheader][tr][td=5][background-block=#1089e6][hr][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#ffffff][b]WA Delegate[/b][/color][/font][/size]
 [/center][hr][/background-block][/td][/tr][tr][td=5][center][delegate][/center][/td][/tr][tr][td=5][background-block=#1089e6][hr][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#ffffff][b]Member nations of the Council on Regional Security (CRS)[/b][/color][/font][/size][/center][hr][/background-block][/td][/tr][crs_table_list][/table]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]We would much appreciate it if you endorsed all of these nations, as it helps with regional security and may lead to future rises in the [url=https://www.nationstates.net/page=dispatch/id=1048805][color=#ff9900]endorsement cap[/color][/url]. [b]Endorsing other nations doesn't affect your nation's foreign policies and statistics[/b].[/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]We would much appreciate it if you endorsed all of these nations, as it helps with regional security and may lead to future rises in the [url=https://www.nationstates.net/page=dispatch/id=1048805][color=#ff9900]endorsement cap[/color][/url]. [b]Endorsing other nations doesn't affect your nation's foreign policies and statistics[/b]. Your nation will receive the title of [url=https://www.nationstates.net/page=dispatch/id=1045928][color=#ff9900]SWAN Knights[/color][/url] and be mentioned on the [url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]next monthly award volume[/color][/url] if you endorse [b]all[/b] of the above nations. Read more about why we recommend you to do this [url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]here[/color][/url].[/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]How to endorse a nation:[/b] Click on a nation name to open its page, scroll down, then click the Endorse button.[/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Your nation will receive the title of [url=https://www.nationstates.net/page=dispatch/id=1045928][color=#ff9900]SWAN Knights[/color][/url] and be mentioned on the [url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]next monthly award volume[/color][/url] if you endorse [b]all[/b] of the above nations![/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Read more about why we recommend you to do this [url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]here[/color][/url].[/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][color=#1089e6][b]With your nation in the WA, you can participate in these activities in our region:[/b][/color][/size][/font]
+[list]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Help regional nations and the Delegate decide on WA resolutions that govern the world by participating in the [url=https://www.nationstates.net/region=the_south_pacific_wa_voting_center][color=#ff9900]Office of WA Legislation voting program[/color][/url]. Our region has the second strongest voting power on the WA so let your voice be heard![/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Alternatively, you can join our regional military the [url=https://www.nationstates.net/page=dispatch/id=1526452]South Pacific Special Forces[/url] and use your WA nation to defend innocent regions and promote the interests of the region abroad. If you want something fast-paced, strategic, and fun in NationStates and our region, the SPSF is for you! Telegram Minister of Defence [nation]HumanSanity[/nation] for more information.[/size][/font]
+[/list]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Note:[/b] You can block this nation in your notification settings if you wish to not receive messages like this.[/size][/font]
 
