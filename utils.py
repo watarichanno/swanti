@@ -110,8 +110,7 @@ def get_sql_interface(path, no_conn=False, backup=False):
         sys.exit()
 
     if backup is True:
-        filename = "backup-{}-{}.db".format(path.split('/')[-1],
-                                            get_timestamp('%b-%d-%Y'))
+        filename = "{}.backup".format(path.split('/')[-1])
         backup_filepath = os.path.join(config['db_archive']['backup_path'], filename)
 
         shutil.copyfile(path, backup_filepath)
