@@ -94,7 +94,7 @@ def get_SPCG_endocap_values():
     values = [
         get_timestamp('%Y/%m/%d'),
 		str(data['SPCG_endo_cap']),
-        str(config['data']['SPCG_endo_cap_perc']),
+        str(config['data']['SPCG_endo_cap_below_delegate']),
         data['nation_name_dict'][data['SPCG_endo_cap_ref']],
         str(data['SPCG_endo_cap_ref_endo']),
         str(data['SPCG_avg_in_endo_num'])

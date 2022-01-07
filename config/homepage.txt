@@ -14,7 +14,7 @@
 [list]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Number of WA nations: [wa_nation_num][/size][/font]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Number of [url=https://www.nationstates.net/page=dispatch/id=1045928][color=#ff9900]SWAN Knights[/color][/url]: [crsdel_num][/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]CRS's average endorsement count: [crs_avg_in_endo_num][/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]SPCG's average endorsement count: [SPCG_avg_in_endo_num][/size][/font]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Total number of endorsements: [endo_num][/size][/font]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Cross-endorsement rate: [density_num] %[/size][/font]
 [/list]
@@ -40,7 +40,7 @@
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6][b]Step 2:[/b][/color] Endorse all of these nations. To endorse a nation, click a nation name to open its page, scroll down then click the Endorse button.[/size][/font]
 [box][table=noheader][tr][td=5][background-block=#1089e6][hr][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#ffffff][b]WA Delegate[/b][/color][/font][/size]
-[/center][hr][/background-block][/td][/tr][tr][td=5][center][delegate][/center][/td][/tr][tr][td=5][background-block=#1089e6][hr][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#ffffff][b]Member nations of the Council on Regional Security (CRS)[/b][/color][/font][/size][/center][hr][/background-block][/td][/tr][crs_table_list][/table][/box]
+[/center][hr][/background-block][/td][/tr][tr][td=5][center][delegate][/center][/td][/tr][tr][td=5][background-block=#1089e6][hr][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#ffffff][b]Member nations of the South Pacific Coral Guard (SPCG)[/b][/color][/font][/size][/center][hr][/background-block][/td][/tr][SPCG_table_list][/table][/box]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6][b]Step 3:[/b][/color] Endorse all other nations in this region. Click [url=https://www.nationstates.net/page=dispatch/id=1077661][color=#ff9900]here[/color][/url] to know how to do this quickly and to find nations to endorse.[/size][/font]
 

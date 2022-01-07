@@ -1,6 +1,10 @@
 [header]
 
 [center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]Census: Endorsement count[/b][/color][/size][/font][/center]
+[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][color=#1089e6][b]Note[/b][/color][/size][/font]
+
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Due to a recent change in how endorsement cap is calculated, it has dramatically dropped to a significantly lower level. If your nation accidentally exceeds the cap because of this, please don't be afraid! It will take some time for the cap to stabilize itself.[/size][/font]
+[/box]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]This is a census that ranks your nation based on how many endorsements your nation currently has[/size][/font]
 

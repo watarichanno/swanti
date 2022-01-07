@@ -108,7 +108,7 @@ def get_placeholders(awards=False):
                 '[SPCG_avg_in_endo_num]': round_str(data['SPCG_avg_in_endo_num']),
                 '[SPCG_avg_in_endo_num_change]': gen_change_format(data['SPCG_avg_in_endo_num_change']),
                 '[SPCG_endo_cap]': round_str(data['SPCG_endo_cap'], '%.0f', 1),
-                '[SPCG_endo_cap_perc]': str(config['data']['SPCG_endo_cap_perc']),
+                '[SPCG_endo_cap_below_delegate]': str(config['data']['SPCG_endo_cap_below_delegate']),
                 '[SPCG_endo_cap_ref]': wrap_nation_bbcode(data['SPCG_endo_cap_ref']),
                 '[SPCG_endo_cap_ref_endo]': str(data['SPCG_endo_cap_ref_endo']),
 

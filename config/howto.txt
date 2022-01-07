@@ -64,7 +64,7 @@
 [spoiler=Click to read...]
 [list]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The first nation you should endorse is the Delegate ([delegate]).[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]After that, endorse all member nations of the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url]: [crs_list].[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]After that, endorse all member nations of the [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url]: [SPCG_list].[/size][/font]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Finally, endorse any other nation. We have a list of nations that you can endorse below.[/size][/font]
 [/list]
 

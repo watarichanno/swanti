@@ -392,7 +392,7 @@ def analyse(data, nx_graph):
 
     # ==========================================================
 
-    ref_nation = data['crs_in_endo_sorted_list'][-1]
+    ref_nation = data['SPCG_in_endo_sorted_list'][-1]
     ref_endo = ref_nation[1]
     endo_cap = ref_endo * config['data']['endo_cap_perc'] / 100
     if config['data']['endo_cap']:
@@ -408,11 +408,11 @@ def analyse(data, nx_graph):
 
     # =====================================================================
 
-    SPCG_ref_nation = data['crs_in_endo_sorted_list'][2]
-    SPCG_ref_endo = SPCG_ref_nation[1]
-    SPCG_endo_cap = SPCG_ref_endo * config['data']['SPCG_endo_cap_perc'] / 100
+    SPCG_ref_nation = data['max_in_endo_nation']
+    SPCG_ref_endo = data['max_in_endo_num']
+    SPCG_endo_cap = SPCG_ref_endo - config['data']['SPCG_endo_cap_below_delegate']
     data['SPCG_endo_cap'] = SPCG_endo_cap
-    data['SPCG_endo_cap_ref'] = SPCG_ref_nation[0]
+    data['SPCG_endo_cap_ref'] = SPCG_ref_nation
     data['SPCG_endo_cap_ref_endo'] = SPCG_ref_endo
 
     logger.debug('SPCG Endo cap: %f', data['SPCG_endo_cap'])

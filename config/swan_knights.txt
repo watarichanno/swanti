@@ -2,7 +2,7 @@
 
 [center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]SWAN Knights[/b][/color][/size][/font][/center]
 
-[align=justify][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]SWAN Knight[/b] is an honorific title we give to nations that endorse the Delegate and all members of the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url] (CRS). Together with the Delegate and the CRS, they are the main force that protects our region from both internal and external security threats and keep our democratic institutions functioning properly.[/size][/font][/align]
+[align=justify][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]SWAN Knight[/b] is an honorific title we give to nations that endorse the Delegate and all members of the [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url] (SPCG). Together with the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url] (CRS), they are the main force that protects our region from both internal and external security threats and keep our democratic institutions functioning properly.[/size][/font][/align]
 
 [center][img]https://i.imgur.com/YYU8hxu.png[/img][/center]
 
@@ -21,7 +21,7 @@
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]It is very easy, just:[/size][/font]
 [list]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorse our current Delegate [delegate][/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorse all member nations of the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url]: [crs_list][/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorse all member nations of the [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url]: [SPCG_list][/size][/font]
 [/list]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]After you have done that, wait for around 24 hours and you will see your name on the list below (you will receive a notification when this happens) and be included in the next monthly award volume.[/size][/font]

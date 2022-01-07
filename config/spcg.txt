@@ -12,7 +12,7 @@
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]Duties and privileges of the SPCG[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Member nations of the SPCG are permitted a higher Endorsement Cap than that provided for the general World Assembly membership. The current endorsement cap for SPCG members is set to be equal to [SPCG_endo_cap_perc]% the endorsement count of the CRS member with the third-highest endorsement count. (Currently [SPCG_endo_cap_ref] at [SPCG_endo_cap_ref_endo] endorsements)[/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Member nations of the SPCG are permitted a higher Endorsement Cap than that provided for the general World Assembly membership. The current endorsement cap for SPCG members is set to be [SPCG_endo_cap_below_delegate] less than the endorsement count of the delegate. (Currently [SPCG_endo_cap_ref] at [SPCG_endo_cap_ref_endo] endorsements)[/size][/font]
 
 [center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][color=#1089e6][b]The current endorsement cap for SPCG is [SPCG_endo_cap][/b][/color][/size][/font][/center]
 
