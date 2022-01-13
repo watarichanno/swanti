@@ -23,7 +23,7 @@
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=#wingspan][color=#ff9900]Wingspan Awards[/color][/url][/font][/size]
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]These awards are given to nations that have maintained the most endorsements with other nations in the last month.[/font][/size]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=#knight][color=#ff9900]SWAN Knight Awards[/color][/url][/font][/size]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]These awards are given to nations that have endorsed both the Delegate ([nation][delegate][/nation]) and the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url] in the last month.[/font][/size]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]These awards are given to nations that have endorsed both the Delegate ([nation][delegate][/nation]) and all members of the [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url] in the last month.[/font][/size]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=#cygnet][color=#ff9900]Cygnet Awards[/color][/url][/font][/size]
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]These awards are given to nations that have joined [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly[/color][/url] and endorsed at least 20 nations in the last month.[/font][/size]
 [/list]
