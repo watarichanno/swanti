@@ -1,21 +1,40 @@
-[background-block=#019AED][center][color=#019aed].[/color]
-[img]http://tspforums.xyz/images/18myskins/logo.png[/img][color=#019aed].[/color][/center][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#fff][b]The Government of the South Pacific[/b][/color][/size][/font]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1042647][color=#fff]This notice is a part of the Southern World Assembly Initiative[/color][/url][/size][/font]
-[color=#38b9ff].[/color][/center][/background-block]
+[anchor=Top][/anchor][box][align=center][background-block=#88D5FF][font=Avenir, Segoe UI][size=120]
+[color=#88D5FF]—[/color][url=https://www.nationstates.net/page=display_region_rmb/region=the_south_pacific][color=#FFFFFF][b]RMB[/b][/color][/url] [/size][size=75][sup][background=#FF9900][color=#FFFFFF] LIVE [/color][/background][/sup][/size][size=120][color=#88D5FF]—[/color] [color=#88D5FF]—[/color][url=https://discord.gg/tzyJqRw][color=#FFFFFF][b]Discord[/b][/color][/url] [/size][size=75][sup][background=#FF9900][color=#ffffff] LIVE [/color][/background][/sup][/size][size=120][color=#88D5FF]—[/color][/size][/font][/background-block]
+[background-block=#38B9FF][font=Avenir, Segoe UI][size=120]
+[color=#38B9FF]—[/color][url=https://www.nationstates.net/page=dispatch/id=1576020][color=#FFFFFF][b]Welcome[/b][/color][/url][color=#38B9FF]—[/color]  [color=#38B9FF]—[/color][url=https://www.nationstates.net/page=dispatch/id=1571335][color=#FFFFFF][b]Delegate's Briefing[/b][/color][/url][color=#38B9FF]—[/color] [background=#019AED][color=#019AED]—[/color][url=https://www.nationstates.net/page=dispatch/id=1571330][color=#FFFFFF][b]Announcements[/b][/color][/url][color=#019AED]—[/color][/background][/size][/font]
+[url=#Top][img]https://i.imgur.com/8qlfEDZ.png[/img][/url][/background-block]
+[background-block=#38B9FF][font=Avenir, Segoe UI][size=120][color=#38B9FF]—[/color]
+[url=https://www.nationstates.net/page=dispatch/id=1571330][color=#FFFFFF][b]Index of Announcements[/b][/color][/url]
+[color=#38B9FF]—[/color][/size][/font][/background-block][/align][/box]
 
+[box][font=Avenir, Segoe UI][size=120][align=justify]Minions,
 
-[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=180][color=#1089e6][b]Please endorse our new Delegate [mention_nation][/b][/color][/size][/font][/center]
+Following the conclusion of the [url=https://www.nationstates.net/page=poll/p=181226][color=#FF9900][b]January 2022 Delegate Election[/b][/color][/url], I am pleased to congratulate [nation]PenguinPies[/nation] as the Delegate-Elect! ^-^
 
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][mention_nation] was elected as our new Delegate after the election which happened recently. To help the transition between our current Delegate [max_in_endo_nation] and the Delegate-elect happen smoothly, please endorse [mention_nation]. If your nation is mentioned on this dispatch, it means you haven't done that yet so please do it![/size][/font]
+For a smooth transition from Amerion's [color=#019AED]New Minion Order[/color] to the PenguinPie's [color=#019AED]Pieclave[/color], please help the Coalition by:
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]How to endorse a nation:[/b] Click on a nation name to open its page, scroll down, then click the Endorse button.[/size][/font]
+[color=#019AED][b]Step 1.[/b][/color] Joining the [url=https://www.nationstates.net/page=un][color=#FF9900][b]World Assembly[/b][/color][/url] (if you haven't yet done so);
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Your nation will receive the title of [url=https://www.nationstates.net/page=dispatch/id=1045928][color=#ff9900]SWAN Knights[/color][/url] and be mentioned on the [url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]next monthly award volume[/color][/url] if you endorse the Delegate-elect along with members of the South Pacific Coral Guards (SPCG): [SPCG_list].[/size][/font]
-[/box]
+[color=#019AED][b]Step 2.[/b][/color] Clicking on [url=https://www.nationstates.net/nation=penguinpies][color=#FF9900][b]this link[/b][/color][/url] which will bring you to the national page of [nation]PenguinPies[/nation]; and finally,
+
+[color=#019AED][b]Step 3.[/b][/color] Scrolling down the page and clicking on the button that says "[color=#019AED][b][i]Endorse PenguinPies[/I][/b][/color]"!
+
+And you're all set! Thank you for doing your part and remember that if you also endorse all the members of the [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#FF9900][b]Coral Guard[/b][/color][/url], your nation will also receive the commendation of being a [url=https://www.nationstates.net/page=dispatch/id=1045928][color=#FF9900][b]SWAN Knight[/b][/color][/url]!
+
+Your outgoing-Supreme Leader,
+[nation]Amerion[/nation]
+
+The Supreme Leader of all Minions, His Majesty, the Admiral Delegate General ﻿Stewie G﻿., Delegate of [region]the South Pacific[/region], the Magnificent Ultimate Leader of all of NationStates, High Autocrat of the [url=https://www.nationstates.net/page=dispatch/id=1421070]New Minion Order[/url], King of Kings, Democratic President and Prime-Minister-For-Life, Chairman and Supreme General Secretary Admiral of the [url=https://www.nationstates.net/page=dispatch/id=1430250]People’s Republic of the South Pacific[/url], Invincible and All-Triumphant Lord Commander, Grand Dentist of the Ice Cream Association, Chief Ophthalmologist and board-certified Dermatologist of the South Pacific Special Forces, Brilliant Genius of Humanity, Noble Prize winner in everything but Peace, and Benevolent Oppressor and Ruthless Protector of the Expendable People of [nation=short]Amerion[/nation].[/size][/align][/font][/box]
 
 [spoiler=List of nations that haven't endorsed Delegate-elect [mention_nation]]
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=130][b]List of nations that haven't endorsed Delegate-elect [mention_nation][/b][/font][/size]
 [nation_notendo_nation]
 [/spoiler]
 
-[footer]
+[box][align=center][background-block=#2280C3][url=https://www.nationstates.net/region=the_south_pacific][img]https://i.imgur.com/0XEl98d.png[/img][/url]
+[color=#2280C3]—[/color]
+[color=#2280C3]—[/color]
+[url=https://www.nationstates.net/region=the_south_pacific][img]https://i.imgur.com/NYenHvV.png[/img][/url][color=#2280C3]—[/color][url=https://discord.gg/tzyJqRw][img]https://i.imgur.com/JyO4OrT.png[/img][/url][color=#2280C3]—[/color][url=https://tspforums.xyz/][img]https://i.imgur.com/SEpkSix.png[/img][/url]
+[color=#2280C3]—[/color]
+[color=#2280C3]—[/color]
+[/background-block][/align][/box]
