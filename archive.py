@@ -377,10 +377,10 @@ def get_in_out_endo_rank(cursor, nations, tables):
     avg_out_endos = {}
 
     for nation in nations:
-        if nation != config['awards']['in_endo_ignore']:
-            avg_in_endos[nation] = get_average(cursor, nation,
-                                               'in_endo', tables)
-
+        if nation in config['data']['excluded']:
+            continue
+        avg_in_endos[nation] = get_average(cursor, nation,
+                                          'in_endo', tables)
         avg_out_endos[nation] = get_average(cursor, nation,
                                            'out_endo', tables)
 
@@ -399,15 +399,13 @@ def get_rank_of_unique_tables(cursor):
     results = cursor.execute(query_str).fetchall()
 
     given_endo_rank = [i[0] for i in results
-                        if i[0] not in config['data']['crsdel']
-                        and i[0] not in config['data']['SPCG']]
+                        if i[0] not in config['data']['excluded']]
 
     query_str = "SELECT nation FROM crsdel"
     results = cursor.execute(query_str).fetchall()
 
     crsdel_endorsers = [i[0] for i in results
-                        if i[0] not in config['data']['crsdel']
-                        and i[0] not in config['data']['SPCG']]
+                        if i[0] not in config['data']['excluded']]
 
     return given_endo_rank, crsdel_endorsers
 
@@ -459,7 +457,7 @@ def get_in_endo_census(cursor):
 
         is_cap_exceed = True
 
-        if nation in config['data']['crsdel']:
+        if nation in config['data']['excluded']:
             is_cap_exceed = False
         elif nation in config['data']['SPCG'] and in_endo_num <= data['SPCG_endo_cap']:
             is_cap_exceed = False
