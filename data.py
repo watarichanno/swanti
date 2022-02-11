@@ -346,12 +346,12 @@ def analyse(data, nx_graph):
 
     # =====================================================================
 
-    """not_endo_nations = set(data['nation_notendo_nation'])
+    not_endo_nations = set(data['nation_notendo_nation'])
     active_wa_nations = set(data['nations_active_wa'])
     recipients = list(not_endo_nations & active_wa_nations)
 
     TELEGRAM_LINK = 'https://www.nationstates.net/page=compose_telegram/tgto={}?message={}\n'
-    TELEGRAM_TEMPLATE = '%TEMPLATE-26570704%'
+    TELEGRAM_TEMPLATE = '%TEMPLATE-27681651%'
 
     telegram_links = []
     current_link_recipients = []
@@ -362,7 +362,7 @@ def analyse(data, nx_graph):
             current_link_recipients = []
 
     with open('telegram_links.txt', 'w') as f:
-        f.writelines(telegram_links)"""
+        f.writelines(telegram_links)
 
     # =====================================================================
 
