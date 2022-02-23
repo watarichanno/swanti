@@ -351,7 +351,7 @@ def analyse(data, nx_graph):
     recipients = list(not_endo_nations & active_wa_nations)
 
     TELEGRAM_LINK = 'https://www.nationstates.net/page=compose_telegram/tgto={}?message={}\n'
-    TELEGRAM_TEMPLATE = '%TEMPLATE-27681651%'
+    TELEGRAM_TEMPLATE = '%TEMPLATE-27681655%'
 
     telegram_links = []
     current_link_recipients = []
