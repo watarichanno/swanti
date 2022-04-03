@@ -3,11 +3,6 @@
 [center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]The Endorsement Cap[/b][/color][/size][/font]
 [/center]
 
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][color=#1089e6][b]Note[/b][/color][/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Due to a recent change in how endorsement cap is calculated, it has dramatically dropped to a significantly lower level. If your nation accidentally exceeds the cap because of this, please don't be afraid! It will take some time for the cap to stabilize itself.[/size][/font]
-[/box]
-
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The [b]Endorsement Cap[/b] or [b]Endo Cap[/b] is a limit on how many endorsements your nation is legally allowed to have. Your endorsement count should not be higher than this limit. This acts as a security guard to prevent nations from having too many endorsements and being in the danger zone of pulling  a coup. (Read more about this [url=https://www.nationstates.net/page=dispatch/id=1049890#faq_question_invasion][color=#ff9900]here[/color][/url]) Currently, this cap is set to be equal to [endo_cap_perc]% the endorsement count of the SPCG ([url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url]) member with the lowest endorsement count (Currently [endo_cap_ref] at [endo_cap_ref_endo] endorsements)[/size][/font]
 
 [center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][color=#1089e6][b]The current endorsement cap is[/b][/color][/size][/font]
