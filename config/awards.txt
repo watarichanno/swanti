@@ -106,6 +106,10 @@
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1628072][color=#ff9900]Award #40, November 2021[/color][/url][/size][/font]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1640133][color=#ff9900]Award #41, December 2021[/color][/url][/size][/font]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1654655][color=#ff9900]Award #42, January 2022[/color][/url][/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1668309][color=#ff9900]Award #43, February 2022[/color][/url][/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1684271][color=#ff9900]Award #44, March 2022[/color][/url][/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1698963][color=#ff9900]Award #45, April 2022[/color][/url][/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1714621][color=#ff9900]Award #46, May 2022[/color][/url][/size][/font]
 [/list][/box]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6]If you want to know about the technical details of the data that are used to determine the awards, please read[/color] [url=https://www.nationstates.net/page=dispatch/id=1049890#faqdata][color=#ff9900]this[/color][/url][color=#1089e6]. If you want to know more about the SWAN initiative in general, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
