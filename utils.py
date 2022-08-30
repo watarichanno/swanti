@@ -80,7 +80,7 @@ def get_datadump():
         logger.info('Data dump file already exists. No download')
         return
 
-    respond = requests.get(DUMP_URL, stream=True)
+    respond = requests.get(DUMP_URL, headers={'user-agent': config['auth']['user_agent']}, stream=True)
 
     try:
         respond.raise_for_status()
