@@ -1,10 +1,5 @@
-import httplib2
-import os
-
-from apiclient import discovery, http
-from oauth2client import client
-from oauth2client import tools
-from oauth2client.file import Storage
+from google.oauth2 import service_account
+from googleapiclient import discovery, http
 
 from utils import config, round_str, get_timestamp
 from utils import get_logger, get_value_from_list, add_timestamp
@@ -13,40 +8,22 @@ from data import data
 
 CREDENTIAL_FILENAME = 'sheets.googleapis.com-tsp-wa-init.json'
 
-SHEETS_SCOPES = 'https://www.googleapis.com/auth/spreadsheets'
-DRIVE_SCOPES = 'https://www.googleapis.com/auth/drive'
+SHEETS_SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
+DRIVE_SCOPES = ['https://www.googleapis.com/auth/drive']
 
 
 logger = get_logger(__name__)
 
 
 def get_credentials(scopes):
-    auth_config = config['google_service']['auth']
-
-    credential_dir = auth_config['credential_dir_path']
-    credential_path = os.path.join(credential_dir, CREDENTIAL_FILENAME)
-
-    store = Storage(credential_path)
-    credentials = store.get()
-    if not credentials or credentials.invalid:
-        logger.info('No credential found, attempting to make one')
-        flow = client.flow_from_clientsecrets(auth_config['client_secret_path'],
-                                              scopes)
-        flow.user_agent = auth_config['user_agent']
-        credentials = tools.run_flow(flow, store)
-
-    logger.info('Got credentials')
-    return credentials
+    return service_account.Credentials.from_service_account_file(
+        config['google_service']['cred_path'], scopes=scopes
+        )
 
 
 def get_service(service_name, version, scopes):
     credentials = get_credentials(scopes)
-    http = credentials.authorize(httplib2.Http())
-    service = discovery.build(service_name,
-                              version,
-                              http=http)
-
-    logger.info('Got service: %s - %s', service_name, version)
+    service = discovery.build(service_name, version, credentials=credentials, cache_discovery=False)
     return service
 
 
@@ -130,11 +107,9 @@ def get_delegate_transition_values():
 
 
 def append_value_sheet(service, sheet_id, range, values):
-    sheet_config = config['google_service']
-
     body = {"range": range,
             "values": [values],
-            "majorDimension": sheet_config['major_dimension']}
+            "majorDimension": config['google_service']['major_dimension']}
 
     service.values().append(spreadsheetId=sheet_id,
                             range=range,
@@ -143,8 +118,7 @@ def append_value_sheet(service, sheet_id, range, values):
 
 
 def update_sheet():
-    service = get_service('sheets', 'v4',
-                          SHEETS_SCOPES).spreadsheets()
+    service = get_service('sheets', 'v4', SHEETS_SCOPES).spreadsheets()
 
     range_config = config['google_service']['ranges']
     sheet_config = config['google_service']['sheet_ids']
