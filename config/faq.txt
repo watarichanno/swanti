@@ -27,7 +27,7 @@
 [background-block=#1089e6][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][color=#ffffff][size=170][b]General[/b][/size]
 [size=120]This part ontains general questions and issues[/size][/color][/font][/background-block]
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How do I do X?[/b][/size][/font]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Firstly, you should read our [url=https://www.nationstates.net/page=dispatch/id=1048440][color=#ff9900]how-to guide[/color][/url] which covers everything you need to know to participate this initiative. You can also read [url=https://www.nationstates.net/page=faq][color=#ff9900]the game's FAQ[/color][/url] for answers to more questions. If these along with this FAQ don't solve your questions, consider [url=https://www.nationstates.net/page=dispatch/id=1050817][color=#ff9900]contacting us[/color][/url].[/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Firstly, you should read our [url=https://www.nationstates.net/page=dispatch/id=1048440][color=#ff9900]how-to guide[/color][/url] which covers everything you need to know to participate this initiative. You can also read [url=https://www.nationstates.net/page=faq][color=#ff9900]the game's FAQ[/color][/url] for answers to more questions. If these along with this FAQ don't solve your questions, consider [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]contacting us[/color][/url].[/size][/font]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]I didn't receive a World Assembly invitation email![/b][/size][/font]
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]From [url=https://www.nationstates.net/page=faq][color=#ff9900]the NationStates FAQ:[/color][/url][/size][/font]
@@ -103,7 +103,7 @@ And speaking of the Regional Message Board, you can also post on the Regional Me
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]And finally, the original idea behind this initiative as well as similar initiatives such as [url=https://www.nationstates.net/page=dispatch/id=338370][color=#ff9900]the North Pacific's World Assembly Development Program[/color][/url] and [url=https://www.nationstates.net/page=dispatch/id=426900][color=#ff9900]Europeia's World Assembly Advancement Program[/color][/url] came from [nation]r3naissanc3r[/nation].[/size][/font]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]How do I contact the staff?[/b][/size][/font]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Please read [url=https://www.nationstates.net/page=dispatch/id=1050817][color=#ff9900]this[/color][/url].[/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Please read [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]this[/color][/url].[/size][/font]
 
 [anchor=faqhistory][/anchor]
 [background-block=#1089e6][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][color=#ffffff][size=170][b]History[/b][/size]
