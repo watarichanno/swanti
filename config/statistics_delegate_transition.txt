@@ -48,7 +48,7 @@
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The following reveal how many endorsements the Delegate currently has and the percentage of World Assembly nations that are endorsing the Delegate. The following also gives you information about the progress of the transition from current Delegate [max_in_endo_nation] to Delegate-elect [delegate] after the delegate election happened recently.[/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The raw data of the transition can be viewed [url=https://docs.google.com/spreadsheets/d/1z46LaIWaSW4Tt29Tvc1ZOmxRp6GAvH2BFXFjLkx-tjI/edit?usp=sharing][color=#ff9900]here[/color][/url].[/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The raw data of the transition can be viewed [url=https://docs.google.com/spreadsheets/d/1HOSlGfCrykCTC2GoR8VFMOT_BdA2rQ7_R598TawGFV0/edit?usp=sharing][color=#ff9900]here[/color][/url].[/size][/font]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The higher the number, the better.[/size][/font]
 [table][tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorsement count[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Change[/size][/font][/td][/tr]
@@ -56,7 +56,7 @@
 [tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Delegate-elect [delegate][/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][delegate_elect_in_endo_num][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][delegate_elect_in_endo_num_change][/size][/font][/td][/tr]
 [/table]
 
-[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vSrxs-IkZfWJaA6v59T3LyX2hclyQurKu071jiB7VRt1Q0u8-M2PuMLEbuvFjNvJVaCLpBnz5nfr-UW/pubchart?oid=1474086469&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vSrxs-IkZfWJaA6v59T3LyX2hclyQurKu071jiB7VRt1Q0u8-M2PuMLEbuvFjNvJVaCLpBnz5nfr-UW/pubchart?oid=1474086469&format=image[/img][/url][/center]
+[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vRDg4gUN_iH8U_NM15IcPI4Razjp_S1MHEU2Z0l-I1KkhLWtn3i3JL7EI_2biP3yxmj85rB_fAvNivX/pubchart?oid=1474086469&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vRDg4gUN_iH8U_NM15IcPI4Razjp_S1MHEU2Z0l-I1KkhLWtn3i3JL7EI_2biP3yxmj85rB_fAvNivX/pubchart?oid=1474086469&format=image[/img][/url][/center]
 
 [center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=840874794&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=840874794&format=image[/img][/url][/center]
 [/box]
