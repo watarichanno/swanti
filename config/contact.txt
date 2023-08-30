@@ -7,8 +7,7 @@
 
 [list]
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Send a [url=https://www.nationstates.net/page=telegrams][color=#ff9900]telegram[/color][/url] to the coordinator of this initiative: [nation]United States of Vietnam[/nation]. It is recommended to send any technical question or error report to this nation.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Send a [url=https://www.nationstates.net/page=telegrams][color=#ff9900]telegram[/color][/url] to [url=https://www.nationstates.net/page=region_admin/region=the_south_pacific][color=#ff9900]government officials[/color][/url]. It is recommended that you send it to the delegate ([delegate]) or a member nation of [url=https://www.nationstates.net/page=dispatch/id=1381890][color=#ff9900]the Local Council[/color][/url] if you have a non-technical question and want a good response.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Fill out our [url=https://goo.gl/forms/FhCn7yIThlU16ffZ2][color=#ff9900]contact form[/color][/url].[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Send a [url=https://www.nationstates.net/page=telegrams][color=#ff9900]telegram[/color][/url] to [url=https://www.nationstates.net/page=region_admin/region=the_south_pacific][color=#ff9900]government officials[/color][/url]. It is recommended that you send it to the delegate ([delegate]) if you have a non-technical question.[/size][/font]
 [/list]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Note: Please read our [url=https://www.nationstates.net/page=dispatch/id=1049890][color=#ff9900]FAQ[/color][/url] for common questions and problems before using any of the above.[/b][/size][/font]
