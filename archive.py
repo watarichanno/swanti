@@ -377,7 +377,7 @@ def get_in_out_endo_rank(cursor, nations, tables):
     avg_out_endos = {}
 
     for nation in nations:
-        if nation in config['data']['excluded']:
+        if nation in config['data']['excluded'] or nation not in data['wa_nations']:
             continue
         avg_in_endos[nation] = get_average(cursor, nation,
                                           'in_endo', tables)
@@ -399,13 +399,15 @@ def get_rank_of_unique_tables(cursor):
     results = cursor.execute(query_str).fetchall()
 
     given_endo_rank = [i[0] for i in results
-                        if i[0] not in config['data']['excluded']]
+                        if i[0] not in config['data']['excluded']
+                        and i[0] in data['wa_nations']]
 
     query_str = "SELECT nation FROM crsdel"
     results = cursor.execute(query_str).fetchall()
 
     crsdel_endorsers = [i[0] for i in results
-                        if i[0] not in config['data']['excluded']]
+                        if i[0] not in config['data']['excluded']
+                        and i[0] in data['wa_nations']]
 
     return given_endo_rank, crsdel_endorsers
 

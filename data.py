@@ -58,6 +58,8 @@ def build_graph(file_name):
 
     is_in_region = False
 
+    wa_nations = set()
+
     for nation in root:
 
         if nation.find('REGION').text == config['data']['region']:
@@ -68,6 +70,7 @@ def build_graph(file_name):
                 lower_nation_name = nation_name.lower()
 
                 nation_name_dict[lower_nation_name] = nation_name
+                wa_nations.add(lower_nation_name)
 
                 endo_list = nation.find('ENDORSEMENTS').text
 
@@ -90,7 +93,7 @@ def build_graph(file_name):
     logger.debug('Regional nation num is %d', regional_nation_num)
 
     logger.info('Finished building graph')
-    return nx_graph, regional_nation_num, ns_wa_num, ns_nation_num, nation_name_dict, notin_wa, active_wa
+    return nx_graph, regional_nation_num, ns_wa_num, ns_nation_num, nation_name_dict, notin_wa, active_wa, wa_nations
 
 
 def build_regional_nation_set(root):
@@ -436,7 +439,7 @@ class Data(object):
         self.data['nation_name_dict'] = output[4]
         self.data['nations_notin_wa'] = output[5]
         self.data['nations_active_wa'] = output[6]
-
+        self.data['wa_nations'] = output[7]
         analyse(self.data, self.nx_graph)
 
         self.data['endo_map_url'] = ""

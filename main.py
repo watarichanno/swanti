@@ -13,7 +13,7 @@ def main():
     googleinterface.update_sheet()
     graph.generate_img()
     image.final_image()
-    googleinterface.upload_image()
+    #googleinterface.upload_image()
     imgurinterface.upload_image()
     dispatch.update_dispatch()
 
