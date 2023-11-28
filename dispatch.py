@@ -94,13 +94,6 @@ def get_placeholders(awards=False):
                 '[perc_max_in_endo_num_wa]': round_str(data['perc_max_in_endo_num_wa']),
                 '[perc_max_in_endo_num_wa_change]': gen_change_format(data['perc_max_in_endo_num_wa_change']),
 
-                '[crs_list]': gen_text_list(config['data']['crs']),
-                '[crs_table_list]': gen_list_table(config['data']['crs'], 5),
-                '[crs_num]': str(len(config['data']['crs'])),
-                '[crs_census]': gen_census_table(data['crs_census'], 0, disp_rank=False),
-                '[crs_avg_in_endo_num]': round_str(data['crs_avg_in_endo_num']),
-                '[crs_avg_in_endo_num_change]': gen_change_format(data['crs_avg_in_endo_num_change']),
-
                 '[SPCG_list]': gen_text_list(config['data']['SPCG']),
                 '[SPCG_table_list]': gen_list_table(config['data']['SPCG'], 5),
                 '[SPCG_num]': str(len(config['data']['SPCG'])),

@@ -58,20 +58,6 @@
 [/box]
 
 [box]
-[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Endorsement statistics of CRS members[/b][/color][/size][/font][/center]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The following reveal how many endorsements each member of the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url] (CRS) currently has and the average of the number.[/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The higher the number, the better.[/size][/font]
-[table][tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorsement count[/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Change[/size][/font][/td][/tr]
-[crs_census]
-[tr][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Average[/b][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][crs_avg_in_endo_num][/size][/font][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][crs_avg_in_endo_num_change][/size][/font][/td][/tr]
-[/table]
-
-[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=421962438&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=421962438&format=image[/img][/url][/center]
-[/box]
-
-[box]
 [center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Endorsement statistics of SPCG members[/b][/color][/size][/font][/center]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The following reveal how many endorsements each member of the [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url] (SPCG) currently has and the average of the number.[/size][/font]

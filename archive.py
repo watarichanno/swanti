@@ -243,7 +243,6 @@ def update_stats_db(cursor):
 
               'perc_max_in_endo_num_wa': data['perc_max_in_endo_num_wa'],
 
-              'crs_avg_in_endo_num': data['crs_avg_in_endo_num'],
               'SPCG_avg_in_endo_num': data['SPCG_avg_in_endo_num'],
 
               'crsdel_num': data['crsdel_num'],
@@ -259,7 +258,6 @@ def update_stats_db(cursor):
                  :wa_nation_num, :perc_wa_regional_nation_num, :perc_wa_ns_wa,
                  :regional_nation_num, :perc_regional_nation_num_ns, :ns_nation_num,
                  :perc_max_in_endo_num_wa,
-                 :crs_avg_in_endo_num,
                  :SPCG_avg_in_endo_num,
                  :crsdel_num, :perc_crsdel_num_wa,
                  :endo_num, :density_num,
@@ -328,7 +326,6 @@ def create_stats_table(cursor):
                  'wa_nation_num integer, perc_wa_regional_nation_num real, perc_wa_ns_wa real,'
                  'regional_nation_num integer, perc_regional_nation_num_ns real, ns_nation_num integer,'
                  'perc_max_in_endo_num_wa real,'
-                 'crs_avg_in_endo_num real,'
                  'SPCG_avg_in_endo_num real,'
                  'crsdel_num integer, perc_crsdel_num_wa real,'
                  'endo_num integer, density_num real, wa_nations text'),
@@ -518,21 +515,6 @@ def get_endotarting_census(cursor):
     return census
 
 
-def get_crs_census(cursor):
-    census = []
-
-    for i in data['crs_in_endo_sorted_list']:
-        nation = i[0]
-        in_endo_num = i[1]
-        change = get_census_change(cursor, nation,
-                                   'in_endo', 'in_endo_sorted_list')
-        census.append([nation, in_endo_num, change])
-
-    logger.info('Created crs census')
-    logger.debug('Content:\n%r:', census)
-    return census
-
-
 def get_SPCG_census(cursor):
     census = []
 
@@ -589,7 +571,6 @@ def read_from_archive():
     data['endotarting_census'] = get_endotarting_census(cursor)
     data['out_endo_census'] = get_out_endo_census(cursor)
     data['in_endo_census'] = get_in_endo_census(cursor)
-    data['crs_census'] = get_crs_census(cursor)
     data['SPCG_census'] = get_SPCG_census(cursor)
 
     data['new_wa_nations'] = get_new_wa_nations(stats_cursor)
@@ -615,11 +596,6 @@ def read_from_archive():
     data['perc_max_in_endo_num_wa_change'] = get_change_from_stats(stats_cursor,
                                                                'perc_max_in_endo_num_wa',
                                                                'perc_max_in_endo_num_wa')
-
-
-    data['crs_avg_in_endo_num_change'] = get_change_from_stats(stats_cursor,
-                                                               'crs_avg_in_endo_num',
-                                                               'crs_avg_in_endo_num')
 
     data['SPCG_avg_in_endo_num_change'] = get_change_from_stats(stats_cursor,
                                                                 'SPCG_avg_in_endo_num',

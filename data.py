@@ -143,21 +143,6 @@ def get_crsdel_endorsers(nx_graph):
     return crsdel_endorsers
 
 
-def get_crs_avg_in_endo(nx_graph):
-    avg_in_endo = 0
-
-    total = 0
-    number_of_crs_mem = 0
-    for nation in config['data']['crs']:
-        total += nx_graph.in_degree(nation)
-        number_of_crs_mem += 1
-
-    avg_in_endo = float(total) / float(number_of_crs_mem)
-
-    logger.debug('Got avg in endo of CRS: %f', avg_in_endo)
-    return avg_in_endo
-
-
 def get_SPCG_avg_in_endo(nx_graph):
     avg_in_endo = 0
 
@@ -181,19 +166,6 @@ def get_out_endo_dict(nx_graph):
         out_endo_dict[nation] = out_endo_list
 
     return out_endo_dict
-
-
-def get_crs_in_endo(data):
-    crs_in_endo = []
-
-    for i in data['in_endo_sorted_list']:
-        nation = i[0]
-
-        if nation in config['data']['crs']:
-            in_endo_num = i[1]
-            crs_in_endo.append([nation, in_endo_num])
-
-    return crs_in_endo
 
 
 def get_SPCG_in_endo(data):
@@ -372,14 +344,6 @@ def analyse(data, nx_graph):
     data['density_num'] = float(nx.density(nx_graph)) * 100
 
     logger.debug('Determined graph density: %f', data['density_num'])
-
-    # =====================================================================
-
-    data['crs_in_endo_sorted_list'] = get_crs_in_endo(data)
-    data['crs_avg_in_endo_num'] = get_crs_avg_in_endo(nx_graph)
-
-    logger.debug('CRS endo list: %r', data['crs_in_endo_sorted_list'])
-    logger.debug('CRS average in endo: %f', data['crs_avg_in_endo_num'])
 
     # =====================================================================
 

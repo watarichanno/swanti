@@ -81,19 +81,6 @@ def get_SPCG_endocap_values():
     return values
 
 
-def get_crs_values():
-    values = [
-        get_timestamp('%Y/%m/%d'),
-
-        str(data['crs_in_endo_sorted_list'][0][1]),
-        str(data['crs_in_endo_sorted_list'][-1][1]),
-        str(data['crs_avg_in_endo_num'])
-    ]
-
-    logger.debug('CRS sheet values: %r', values)
-    return values
-
-
 def get_delegate_transition_values():
     values = [
         get_timestamp('%Y/%m/%d'),
@@ -127,11 +114,6 @@ def update_sheet():
     append_value_sheet(service, sheet_config['general'],
                        range_config['stats'], stats_values)
     logger.info('Updated stats sheet')
-
-    crs_values = get_crs_values()
-    append_value_sheet(service, sheet_config['general'],
-                       range_config['crs'], crs_values)
-    logger.info('Updated crs sheet')
 
     endocap_values = get_endocap_values()
     append_value_sheet(service, sheet_config['general'],
