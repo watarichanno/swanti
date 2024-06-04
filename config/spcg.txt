@@ -27,8 +27,8 @@
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]In order to become a member of the SPCG, one has to:[/size][/font]
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Have World Assembly membership in [region]the South Pacific[/region]; and,[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Have six consecutive months of [url=http://tspforums.xyz/thread-5837.html][color=#ff9900]legislator status[/color][/url].[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Have maintained [url=https://thesouthpacific.org/w/get-involved][color=#ff9900]citizenship[/color][/url] for at least six consecutive months prior to the date of their application to the Coral Guard; and[/size][/font]
+[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Meet the requirements for influence and endorsements set and published by the Council on Regional Security[/size][/font]
 [/list]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Process[/b][/color][/size][/font]
@@ -42,7 +42,7 @@
 [*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]One (or several) paragraphs arguing why the Council should appoint you to this position of high trust.[/size][/font]
 [/list]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6][b]Step 3[/b][/color]: Send your application to a [url=https://www.nationstates.net/page=dispatch/id=1393951#Members][color=#FF9900][b]member of the CRS[/b][/color][/url]. You can do this by a variety of methods (a telegram, a private message on the forum, or a direct message on Discord).[/size][/font]
+[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6][b]Step 3[/b][/color]: Send your application to a [url=https://thesouthpacific.org/g/crs?asc=true][color=#FF9900][b]member of the CRS[/b][/color][/url]. You can do this by a variety of methods (a telegram, a private message on the forum, or a direct message on Discord).[/size][/font]
 
 [font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The CRS will review your application. This can take a number of days to three weeks. The Council will likely have additional questions which they will communicate to you via the method of your application. Following a formal vote within the Council, it will decide whether to appoint you to the Coral Guard and notify the Assembly of its decision.[/size][/font]
 
