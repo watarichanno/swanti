@@ -20,7 +20,7 @@ def authenticate(imgur):
     except webbrowser.Error:
         logger.error('Cannot open browser')
 
-    pin = raw_input("Enter Imgur pin number: ")
+    pin = input("Enter Imgur pin number: ")
     try:
         imgur.exchange_pin(pin)
         logger.info('Authenticated')
