@@ -1,31 +1,31 @@
 [header]
 
-[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]Census: Endorsement count[/b][/color][/size][/font][/center]
+[center][font=Avenir, Segoe UI, sans-serif][size=250][color=#1089e6][b]Census: Endorsement count[/b][/color][/size][/font][/center]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]This is a census that ranks your nation based on how many endorsements your nation currently has[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]This is a census that ranks your nation based on how many endorsements your nation currently has[/size][/font]
 
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=130][color=#1089e6][b]What you are seeing:[/b][/color][/size][/font]
+[box][font=Avenir, Segoe UI, sans-serif][size=130][color=#1089e6][b]What you are seeing:[/b][/color][/size][/font]
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The rank of your nation[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The endorsement count[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The endorsement count's change in 24 hours.[/font][/size]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]The rank of your nation[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]The endorsement count[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]The endorsement count's change in 24 hours.[/font][/size]
 
 [font=georgia][size=120]Change = Endorsement count in today - Endorsement count in last day[/font][/size]
 [font=georgia][size=120]Change percentage = Change in endorsement count / Endorsement count in last day * 100[/font][/size]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The amount of influence you have gained since the first day of the month: [/font][/size]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]The amount of influence you have gained since the first day of the month: [/font][/size]
 
 [font=georgia][size=120]Total gained influence = Previous total gained influence value + (1 + Number of endorsements you have) * 2[/font][/size]
 
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Nations that are labeled red are nations whose endorsement count has exceeded the [url=https://www.nationstates.net/page=dispatch/id=1048805][color=#ff9900]endorsement cap[/color][/url]. (Current endorsement cap is [endo_cap] for normal nations and [SPCG_endo_cap] for [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]SPCG members[/color][/url])[/size][/font]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]In order to improve your ranking on this census, just join the World Assembly and endorse as much nations as possible! You can read more about that [url=https://www.nationstates.net/page=dispatch/id=1077661][color=#ff9900]here[/color][/url].[/size][/font][/box]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Nations that are labeled red are nations whose endorsement count has exceeded the [url=https://www.nationstates.net/page=dispatch/id=1048805][color=#ff9900]endorsement cap[/color][/url]. (Current endorsement cap is [endo_cap] for normal nations and [SPCG_endo_cap] for [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]SPCG members[/color][/url])[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]In order to improve your ranking on this census, just join the World Assembly and endorse as much nations as possible! You can read more about that [url=https://www.nationstates.net/page=dispatch/id=1077661][color=#ff9900]here[/color][/url].[/size][/font][/box]
 
-[table][tr][td][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Nation[/font][/size][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorsement count[/font][/size][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Change[/font][/size][/td][td][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Total gained influence[/font][/size][/td][/tr]
+[table][tr][td][/td][td][font=Avenir, Segoe UI, sans-serif][size=120]Nation[/font][/size][/td][td][font=Avenir, Segoe UI, sans-serif][size=120]Endorsement count[/font][/size][/td][td][font=Avenir, Segoe UI, sans-serif][size=120]Change[/font][/size][/td][td][font=Avenir, Segoe UI, sans-serif][size=120]Total gained influence[/font][/size][/td][/tr]
 [in_endo_census]
 [/table]
 
 [census_notes]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6]If you want to know about the technical details of the censuses, please read[/color] [url=https://www.nationstates.net/page=dispatch/id=1049890#faqdata][color=#ff9900]this[/color][/url][color=#1089e6]. If you want to know more about the SWAN initiative in general, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120][color=#1089e6]If you want to know about the technical details of the censuses, please read[/color] [url=https://www.nationstates.net/page=dispatch/id=1049890#faqdata][color=#ff9900]this[/color][/url][color=#1089e6]. If you want to know more about the SWAN initiative in general, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
 
 [credit]
 

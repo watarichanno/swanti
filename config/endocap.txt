@@ -1,42 +1,42 @@
 [header]
 
-[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]The Endorsement Cap[/b][/color][/size][/font]
+[center][font=Avenir, Segoe UI, sans-serif][size=250][color=#1089e6][b]The Endorsement Cap[/b][/color][/size][/font]
 [/center]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The [b]Endorsement Cap[/b] or [b]Endo Cap[/b] is a limit on how many endorsements your nation is legally allowed to have. Your endorsement count should not be higher than this limit. This acts as a security guard to prevent nations from having too many endorsements and being in the danger zone of pulling  a coup. (Read more about this [url=https://www.nationstates.net/page=dispatch/id=1049890#faq_question_invasion][color=#ff9900]here[/color][/url]) Currently, this cap is set to be equal to [endo_cap_perc]% the endorsement count of the SPCG ([url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url]) member with the lowest endorsement count (Currently [endo_cap_ref] at [endo_cap_ref_endo] endorsements)[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]The [b]Endorsement Cap[/b] or [b]Endo Cap[/b] is a limit on how many endorsements your nation should have. Your endorsement count should not be higher than this limit. This acts as a security guard to prevent nations from having too many endorsements and potentially overthrowing the delegate. (Read more about this [url=https://www.nationstates.net/page=dispatch/id=1049890#faq_question_invasion][color=#ff9900]here[/color][/url])[/size][/font]
 
-[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][color=#1089e6][b]The current endorsement cap is[/b][/color][/size][/font]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=180][color=#1089e6][b][endo_cap][/b][/color][/size][/font][/center]
+[center][font=Avenir, Segoe UI, sans-serif][size=150][color=#ff0000][b]The current Endorsement Cap is [endo_cap][/b][/color][/size][/font][/center]
+
+[center][font=Avenir, Segoe UI, sans-serif][size=130][color=#d19d00]To avoid coming too near the cap, you should stop gaining endorsements (but no need to reduce) once it is above the Caution Line[/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=150][color=#d19d00][b]The current Endorsement Caution Line is [endo_caution_line][/b][/color][/size][/font][/center]
 
 [center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=2098064226&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=2098064226&format=image[/img][/url][/center]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]What happens if I exceed the endorsement cap?[/b][/color][/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]If you exceed the endorsement cap, a member nation of the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url] (CRS) will send you a telegram to notify that you have exceeded it and instruct you to lower your endorsement count until you are compliance with the cap again. Since the endorsement cap constantly varies due to changes in the endorsement count of the lowest endorsement CRS member, you won't get any notification by exceeding it a small number.[/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]Please don't be scared if this happens as it is a common occurrence and is often accidental! You just need to be calm and follow the CRS nation's instructions.[/b][/size][/font]
 
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How can I reduce my endorsement count to comply with the cap again?[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]What happens if I exceed the cap?[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can reduce it by: [/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]Near this limit, a member nation of the [url=https://www.nationstates.net/page=dispatch/id=1192502#crs][color=#ff9900]Council on Regional Security[/color][/url] (CRS) will telegram you about the problem and show how to reduce your endorsement count. Failure to comply may lead to ejection of your nation. You can see below for ways to get rid of enough endorsements for compliance.[/size][/font]
+
+[font=Avenir, Segoe UI, sans-serif][size=120][b]Please don't be scared if this happens as it is a common occurrence and is often accidental! You just need to be calm and follow the CRS nation's instructions.[/b][/size][/font]
+
+
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]How can I reduce my endorsement count to comply with the cap again?[/b][/color][/size][/font]
+
+[font=Avenir, Segoe UI, sans-serif][size=120]You can reduce it by: [/size][/font]
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Sending a telegram to some nations to ask them to withdraw endorsements from you. This is the best way as you will only lose enough endorsements to comply with the endorsement cap again.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Resigning from the World Assembly (Go to [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly page[/color][/url] then click [b]Resign[/b]) then join it again. This is the fastest way but you will lose all endorsements.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Withdrawing your endorsement from some nations so that they will withdraw their endorsements from you. This way is non-guarantee as they may not be aware of you doing this.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Sending a telegram to some nations to ask them to withdraw endorsements from you. This is the best way as you will only lose enough endorsements to comply with the endorsement cap again.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Resigning from the World Assembly (Go to [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly page[/color][/url] then click [b]Resign[/b]) then join it again. This is the fastest way but you will lose all endorsements.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Withdrawing your endorsement from some nations so that they will withdraw their endorsements from you. This way is non-guarantee as they may not be aware of you doing this.[/size][/font]
 [/list]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]What would happen if I refuse to lower my endorsement count?[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]Who sets and enforces the endorsement cap?[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Your nation will receive repeated telegrams seeking compliance. If you continue to refuse, you will be ejected from this region by a CRS nation or the Delegate.[/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]Who sets and enforces the endorsement cap?[/b][/color][/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]This is the duty of the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url] (CRS).[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]The cap is formally known as the [color=#1089e6][b]Hard Endorsement Cap (HEC)[/b][/color] and it equals the endorsement count of the least-endorsed SPCG ([url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url]) member nation (Currently [endo_cap_ref]). The [color=#1089e6][b]Endorsement Caution Line (ECL)[/b][/color], where you should stop gaining endorsements, equals [endo_caution_line_perc] the endorsement count of the SPCG nation. Creating and enforcing endorsement regulations is the duty of the [url=https://www.nationstates.net/page=dispatch/id=1192502#crs][color=#ff9900]Council on Regional Security[/color][/url].[/size][/font]
 
 [notes]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6]If you want to know more about the SWAN initiative, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120][color=#1089e6]If you want to know more about the SWAN initiative, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
 
 [credit]
 
