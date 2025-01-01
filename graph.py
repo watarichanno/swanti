@@ -1,5 +1,4 @@
 import networkx as nx
-import pygraphviz as pgv
 
 from data import data
 from utils import config, get_logger

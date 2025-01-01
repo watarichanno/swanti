@@ -2,7 +2,6 @@ import sys
 
 from PIL import Image, ImageDraw, ImageFont
 
-import utils
 from utils import config, get_timestamp, get_logger
 
 
