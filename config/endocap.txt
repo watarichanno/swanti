@@ -32,7 +32,7 @@
 
 [font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]Who sets and enforces the endorsement cap?[/b][/color][/size][/font]
 
-[font=Avenir, Segoe UI, sans-serif][size=120]The cap is formally known as the [color=#1089e6][b]Hard Endorsement Cap (HEC)[/b][/color] and it equals the endorsement count of the least-endorsed SPCG ([url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url]) member nation (Currently [endo_cap_ref]). The [color=#1089e6][b]Endorsement Caution Line (ECL)[/b][/color], where you should stop gaining endorsements, equals [endo_caution_line_perc] the endorsement count of the SPCG nation. Creating and enforcing endorsement regulations is the duty of the [url=https://www.nationstates.net/page=dispatch/id=1192502#crs][color=#ff9900]Council on Regional Security[/color][/url].[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]The cap is formally known as the [color=#1089e6][b]Hard Endorsement Cap (HEC)[/b][/color] and it equals the endorsement count of the least-endorsed SPCG ([url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url]) member nation (Currently [endo_cap_ref]). The [color=#1089e6][b]Endorsement Caution Line (ECL)[/b][/color], where you should stop gaining endorsements, equals [endo_caution_line_perc]% the endorsement count of the SPCG nation. Creating and enforcing endorsement regulations is the duty of the [url=https://www.nationstates.net/page=dispatch/id=1192502#crs][color=#ff9900]Council on Regional Security[/color][/url].[/size][/font]
 
 [notes]
 
