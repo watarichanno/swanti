@@ -1,27 +1,27 @@
 [header]
 
-[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]Track your progress[/b][/color][/size][/font][/center]
+[center][font=Avenir, Segoe UI, sans-serif][size=250][color=#1089e6][b]Track your progress[/b][/color][/size][/font][/center]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]This is an index of various pages that allow you to view the rank and number of your nation and the region as a whole in various statistics which help you track how well your nation and the region itself is doing in this initiative.[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]This is an index of various pages that allow you to view the rank and number of your nation and the region as a whole in various statistics which help you track how well your nation and the region itself is doing in this initiative.[/size][/font]
 [box]
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=https://www.nationstates.net/page=dispatch/id=1043692][color=#ff9900][b]Endotarting performance[/b][/url][/color][/size][/font]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The amount of endorsements you have given since the first day of this month.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=https://www.nationstates.net/page=dispatch/id=1043685][color=#ff9900][b]Endorsement count[/b][/color][/url][/size][/font]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The amount of endorsements you currently have.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=https://www.nationstates.net/page=dispatch/id=1043681][color=#ff9900][b]Number of nations endorsing[/b][/color][/url][/size][/font]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The number of nations you are currently endorsing.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=https://www.nationstates.net/page=dispatch/id=1043852][color=#ff9900][b]Regional Statistics[/b][/color][/url][/size][/font]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Comprehensive statistics about our region.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][url=https://www.nationstates.net/page=dispatch/id=1042161][color=#ff9900][b]Portrait of the South Pacific[/b][/color][/url][/size][/font]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]A graphical representation of all World Assembly nations and their endorsements in our region.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=140][url=https://www.nationstates.net/page=dispatch/id=1043692][color=#ff9900][b]Endotarting performance[/b][/url][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]The amount of endorsements you have given since the first day of this month.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=140][url=https://www.nationstates.net/page=dispatch/id=1043685][color=#ff9900][b]Endorsement count[/b][/color][/url][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]The amount of endorsements you currently have.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=140][url=https://www.nationstates.net/page=dispatch/id=1043681][color=#ff9900][b]Number of nations endorsing[/b][/color][/url][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]The number of nations you are currently endorsing.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=140][url=https://www.nationstates.net/page=dispatch/id=1043852][color=#ff9900][b]Regional Statistics[/b][/color][/url][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]Comprehensive statistics about our region.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=140][url=https://www.nationstates.net/page=dispatch/id=1042161][color=#ff9900][b]Portrait of the South Pacific[/b][/color][/url][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]A graphical representation of all World Assembly nations and their endorsements in our region.[/size][/font]
 [/list][/box]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can click on a link to view a census and the details about how numbers in that census mean[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]You can click on a link to view a census and the details about how numbers in that census mean[/size][/font]
 
 [notes]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6]If you want to know about the technical details of the censuses, please read[/color] [url=https://www.nationstates.net/page=dispatch/id=1049890#faqdata][color=#ff9900]this[/color][/url][color=#1089e6]. If you want to know more about the SWAN initiative in general, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120][color=#1089e6]If you want to know about the technical details of the censuses, please read[/color] [url=https://www.nationstates.net/page=dispatch/id=1049890#faqdata][color=#ff9900]this[/color][/url][color=#1089e6]. If you want to know more about the SWAN initiative in general, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
 
 [credit]
 

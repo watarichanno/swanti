@@ -1,30 +1,30 @@
 [header]
 
-[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]The Portrait of the South Pacific[/b][/color][/size][/font][/center]
+[center][font=Avenir, Segoe UI, sans-serif][size=250][color=#1089e6][b]The Portrait of the South Pacific[/b][/color][/size][/font][/center]
 
 
-[align=justify][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]The Portrait of the South Pacific[/b] is a graphical representation of all World Assembly nations in [region]the South Pacific[/region] and the endorsements between them. We hope this portrait will show you how large and dynamic this region is. If your nation is too small to see below, you can click on the image to view the full-size version and then zoom. Alternatively, you can read below on how to become big and notable so that everyone can easily see you![/size][/font][/align]
+[align=justify][font=Avenir, Segoe UI, sans-serif][size=120][b]The Portrait of the South Pacific[/b] is a graphical representation of all World Assembly nations in [region]the South Pacific[/region] and the endorsements between them. We hope this portrait will show you how large and dynamic this region is. If your nation is too small to see below, you can click on the image to view the full-size version and then zoom. Alternatively, you can read below on how to become big and notable so that everyone can easily see you![/size][/font][/align]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]An archive of past portraits can be found [url=https://imgur.com/a/SW21k2g][color=#ff9900]here[/color][/url] and [url=https://drive.google.com/open?id=1xwAatKNcW5kM8HoLlb9bJDjxyr32xKhN][color=#ff9900]here[/color][/url] (Full-size). Please note that the oldest ones in the full-size archive are deleted periodically to conserve space.[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]An archive of past portraits can be found [url=https://imgur.com/a/SW21k2g][color=#ff9900]here[/color][/url] and [url=https://drive.google.com/open?id=1xwAatKNcW5kM8HoLlb9bJDjxyr32xKhN][color=#ff9900]here[/color][/url] (Full-size). Please note that the oldest ones in the full-size archive are deleted periodically to conserve space.[/size][/font]
 
 [center][url=[endo_map_url]][img][endo_map_small_url][/img][/url]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120](Click the image to open the large (8000x6000) version)[/size][/font][/center]
+[font=Avenir, Segoe UI, sans-serif][size=120](Click the image to open the large (8000x6000) version)[/size][/font][/center]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]What does it all mean?[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]What does it all mean?[/b][/color][/size][/font]
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Each circle represents a nation. Each grey line with a small arrow between the circles represents an endorsement. The direction of the arrow indicates who has endorsed who.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The size of each circle represents the number of endorsements the nation represented by the circle has. The larger the size, the higher the endorsement count.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The color of each circle represents how many nations are currently being endorsed by that nation. The cooler the color, the higher the number of nations being endorsed.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Each circle represents a nation. Each grey line with a small arrow between the circles represents an endorsement. The direction of the arrow indicates who has endorsed who.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]The size of each circle represents the number of endorsements the nation represented by the circle has. The larger the size, the higher the endorsement count.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]The color of each circle represents how many nations are currently being endorsed by that nation. The cooler the color, the higher the number of nations being endorsed.[/size][/font]
 [/list]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How do I become big and [strike]powerful[/strike] notable?[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]How do I become big and [strike]powerful[/strike] notable?[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]It is easy, just endorse as many nations as possible, which will make you turn blue, and then, when everyone starts to endorse you back, you will grow larger and larger! Our goal is to have a lot of nations that are blue and large on the Portrait. Nations that are the largest and most blue on the Portrait will be given [url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]awards[/color][/url] each month to honor their efforts in making the region more secure and more active![/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]It is easy, just endorse as many nations as possible, which will make you turn blue, and then, when everyone starts to endorse you back, you will grow larger and larger! Our goal is to have a lot of nations that are blue and large on the Portrait. Nations that are the largest and most blue on the Portrait will be given [url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]awards[/color][/url] each month to honor their efforts in making the region more secure and more active![/size][/font]
 
 [notes]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6]If you want to know about the technical details of the Portrait, please read[/color] [url=https://www.nationstates.net/page=dispatch/id=1049890#faqportrait][color=#ff9900]this[/color][/url][color=#1089e6]. If you want to know more about the SWAN initiative in general, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120][color=#1089e6]If you want to know about the technical details of the Portrait, please read[/color] [url=https://www.nationstates.net/page=dispatch/id=1049890#faqportrait][color=#ff9900]this[/color][/url][color=#1089e6]. If you want to know more about the SWAN initiative in general, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
 
 [credit]
 

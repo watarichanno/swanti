@@ -1,81 +1,81 @@
 [header]
 
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][color=#1089e6][b]Tl;dr[/b][/color][/size][/font]
+[box][font=Avenir, Segoe UI, sans-serif][size=140][color=#1089e6][b]Tl;dr[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]This is a way for you to easily get more endorsements and influence on your nation and contribute to [region]the South Pacifc[/region]'s security and activity.[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]This is a way for you to easily get more endorsements and influence on your nation and contribute to [region]the South Pacifc[/region]'s security and activity.[/size][/font]
 [/box]
 
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][color=#1089e6][b]Please give a warm welcome to our newest World Assembly nations by endorsing them![/b][/color][/size][/font]
+[box][font=Avenir, Segoe UI, sans-serif][size=140][color=#1089e6][b]Please give a warm welcome to our newest World Assembly nations by endorsing them![/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][new_wa_nations][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120][new_wa_nations][/size][/font]
 [/box]
 
-[floatright][box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Status summary[/b][/size][/font][/color]
+[floatright][box][font=Avenir, Segoe UI, sans-serif][size=150][color=#1089e6][b]Status summary[/b][/size][/font][/color]
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Number of WA nations: [wa_nation_num][/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Number of [url=https://www.nationstates.net/page=dispatch/id=1045928][color=#ff9900]SWAN Knights[/color][/url]: [crsdel_num][/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]SPCG's average endorsement count: [SPCG_avg_in_endo_num][/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Total number of endorsements: [endo_num][/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Cross-endorsement rate: [density_num] %[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Number of WA nations: [wa_nation_num][/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Number of [url=https://www.nationstates.net/page=dispatch/id=1045928][color=#ff9900]SWAN Knights[/color][/url]: [crsdel_num][/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]SPCG's average endorsement count: [SPCG_avg_in_endo_num][/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Total number of endorsements: [endo_num][/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Cross-endorsement rate: [density_num] %[/size][/font]
 [/list]
 [/box][/floatright]
 
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]What is this?[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]What is this?[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]The Southern World Assembly iNitiative[/b] ([b]SWAN[/b]) is an initiative organized by the regional government of the South Pacific to promote the participation of nations in [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly[/color][/url] (WA) and to encourage them to endorse everyone in [region]the South Pacific[/region]. The purpose of this initiative is to help nations in this region have voting power on the WA, more endorsements, and more influence which in turn will make the region more secure and active![/font][/size]
+[font=Avenir, Segoe UI, sans-serif][size=120][b]The Southern World Assembly iNitiative[/b] ([b]SWAN[/b]) is an initiative organized by the regional government of the South Pacific to promote the participation of nations in [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly[/color][/url] (WA) and to encourage them to endorse everyone in [region]the South Pacific[/region]. The purpose of this initiative is to help nations in this region have voting power on the WA, more endorsements, and more influence which in turn will make the region more secure and active![/font][/size]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]What are the World Assembly, Delegates, endorsements, and influence?[/b][/color][/size][/font]
-
-[list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The World Assembly is an equivalent of the real-life United Nations. Although it doesn't impact your nation as much as the real-life UN it does impact regions such as this one a lot.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorsements are something you can give or receive from other nations. They are a little bit similar to likes on social media websites except they are far more important to a region and nation because they create the thing below.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Influence is something your nation will gain by having endorsements. Influence is very important to the security of a region as it decides how hard it is to remove or ban a nation from a region.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]A Delegate or WA Delegate is a nation that has the most endorsements in a region and holds all administrative powers such as moderating the message board, banning/ejecting nations, changing the World Factbook Entry,... In the South Pacific, the Delegate is [url=http://tspforums.xyz/thread-4112.html][color=#ff9900]elected every 6 months[/color][/url] by member nations of this region.[/size][/font]
-[/list]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How do I participate?[/b][/color][/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6][b]Step 1:[/b][/color] Join [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly[/color][/url]. Click [url=https://www.nationstates.net/page=dispatch/id=1048440][color=#ff9900]here[/color][/url] if you don't know how.[/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6][b]Step 2:[/b][/color] Endorse all of these nations. To endorse a nation, click a nation name to open its page, scroll down then click the Endorse button.[/size][/font]
-[box][table=noheader][tr][td=5][background-block=#1089e6][hr][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#ffffff][b]WA Delegate[/b][/color][/font][/size]
-[/center][hr][/background-block][/td][/tr][tr][td=5][center][delegate][/center][/td][/tr][tr][td=5][background-block=#1089e6][hr][center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#ffffff][b]Member nations of the South Pacific Coral Guard (SPCG)[/b][/color][/font][/size][/center][hr][/background-block][/td][/tr][SPCG_table_list][/table][/box]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6][b]Step 3:[/b][/color] Endorse all other nations in this region. Click [url=https://www.nationstates.net/page=dispatch/id=1077661][color=#ff9900]here[/color][/url] to know how to do this quickly and to find nations to endorse.[/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]Why should I participate?[/b][/color][/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Participating in SWAN will give your nation benefits that you can't otherwise get:[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]What are the World Assembly, Delegates, endorsements, and influence?[/b][/color][/size][/font]
 
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Your nation will be able to vote on WA resolutions[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]This is the easiest way to get a lot of endorsements from other nations and gain influence which will help your own nation and the region in the future. [/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Your nation will receive awards to commend your effort of participating in this initiative! ([url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]Click here[/color][/url] to learn more about awards)[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Your nation will have a stronger voting power on the WA. (Read [url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]this[/color][/url] for how)[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]The World Assembly is an equivalent of the real-life United Nations. Although it doesn't impact your nation as much as the real-life UN it does impact regions such as this one a lot.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Endorsements are something you can give or receive from other nations. They are a little bit similar to likes on social media websites except they are far more important to a region and nation because they create the thing below.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Influence is something your nation will gain by having endorsements. Influence is very important to the security of a region as it decides how hard it is to remove or ban a nation from a region.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]A Delegate or WA Delegate is a nation that has the most endorsements in a region and holds all administrative powers such as moderating the message board, banning/ejecting nations, changing the World Factbook Entry,... In the South Pacific, the Delegate is [url=http://tspforums.xyz/thread-4112.html][color=#ff9900]elected every 6 months[/color][/url] by member nations of this region.[/size][/font]
 [/list]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]Click here[/color][/url] if you want to learn more about the benefits.[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]How do I participate?[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How can I do more?[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120][color=#1089e6][b]Step 1:[/b][/color] Join [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly[/color][/url]. Click [url=https://www.nationstates.net/page=dispatch/id=1048440][color=#ff9900]here[/color][/url] if you don't know how.[/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can go above and beyond and do more by:[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120][color=#1089e6][b]Step 2:[/b][/color] Endorse all of these nations. To endorse a nation, click a nation name to open its page, scroll down then click the Endorse button.[/size][/font]
+[box][table=noheader][tr][td=5][background-block=#1089e6][hr][center][font=Avenir, Segoe UI, sans-serif][size=120][color=#ffffff][b]WA Delegate[/b][/color][/font][/size]
+[/center][hr][/background-block][/td][/tr][tr][td=5][center][delegate][/center][/td][/tr][tr][td=5][background-block=#1089e6][hr][center][font=Avenir, Segoe UI, sans-serif][size=120][color=#ffffff][b]Member nations of the South Pacific Coral Guard (SPCG)[/b][/color][/font][/size][/center][hr][/background-block][/td][/tr][SPCG_table_list][/table][/box]
+
+[font=Avenir, Segoe UI, sans-serif][size=120][color=#1089e6][b]Step 3:[/b][/color] Endorse all other nations in this region. Click [url=https://www.nationstates.net/page=dispatch/id=1077661][color=#ff9900]here[/color][/url] to know how to do this quickly and to find nations to endorse.[/size][/font]
+
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]Why should I participate?[/b][/color][/size][/font]
+
+[font=Avenir, Segoe UI, sans-serif][size=120]Participating in SWAN will give your nation benefits that you can't otherwise get:[/size][/font]
+
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Upvoting this dispatch.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Sending a link to this dispatch to new nations that haven't participated or encouraging them directly to do what this initiative wants via [url=https://www.nationstates.net/page=telegrams][color=#ff9900]telegram[/color][/url]. [/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Doing the same as above but via [url=https://www.nationstates.net/page=display_region_rmb/region=the_south_pacific][color=#ff9900]our Regional Message Board[/color][/url].[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Sharing your ideas about how to improve this initiative. (How to do that [url=https://www.nationstates.net/page=dispatch/id=1054970][color=#ff9900]here[/color][/url])[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Your nation will be able to vote on WA resolutions[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]This is the easiest way to get a lot of endorsements from other nations and gain influence which will help your own nation and the region in the future. [/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Your nation will receive awards to commend your effort of participating in this initiative! ([url=https://www.nationstates.net/page=dispatch/id=1054975][color=#ff9900]Click here[/color][/url] to learn more about awards)[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Your nation will have a stronger voting power on the WA. (Read [url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]this[/color][/url] for how)[/size][/font]
 [/list]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How do I know how well I am and the region are doing?[/b][/size][/color][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]Click here[/color][/url] if you want to learn more about the benefits.[/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can do that by looking at our censuses ([url=https://www.nationstates.net/page=dispatch/id=1043675][color=#ff9900]Click here[/color][/url] to view them) and our statistics page ([url=https://www.nationstates.net/page=dispatch/id=1043852][color=#ff9900]Click here[/color][/url] to view it). We also recommend you to check out this awesome "portrait" of our region ([url=https://www.nationstates.net/page=dispatch/id=1042161][color=#ff9900]Click here[/color][/url] to view it) to get a look at how large and dynamic our region is.[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]How can I do more?[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]Where can I find more information?[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]You can go above and beyond and do more by:[/size][/font]
+[list]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Upvoting this dispatch.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Sending a link to this dispatch to new nations that haven't participated or encouraging them directly to do what this initiative wants via [url=https://www.nationstates.net/page=telegrams][color=#ff9900]telegram[/color][/url]. [/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Doing the same as above but via [url=https://www.nationstates.net/page=display_region_rmb/region=the_south_pacific][color=#ff9900]our Regional Message Board[/color][/url].[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Sharing your ideas about how to improve this initiative. (How to do that [url=https://www.nationstates.net/page=dispatch/id=1054970][color=#ff9900]here[/color][/url])[/size][/font]
+[/list]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Take a look at our [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]How do I know how well I am and the region are doing?[/b][/size][/color][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=130][color=#1089e6][b]We hope you will enjoy this initiative and that you find NationStates and our community a more cheerful place because of it.[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]You can do that by looking at our censuses ([url=https://www.nationstates.net/page=dispatch/id=1043675][color=#ff9900]Click here[/color][/url] to view them) and our statistics page ([url=https://www.nationstates.net/page=dispatch/id=1043852][color=#ff9900]Click here[/color][/url] to view it). We also recommend you to check out this awesome "portrait" of our region ([url=https://www.nationstates.net/page=dispatch/id=1042161][color=#ff9900]Click here[/color][/url] to view it) to get a look at how large and dynamic our region is.[/size][/font]
+
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]Where can I find more information?[/b][/color][/size][/font]
+
+[font=Avenir, Segoe UI, sans-serif][size=120]Take a look at our [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+
+[font=Avenir, Segoe UI, sans-serif][size=130][color=#1089e6][b]We hope you will enjoy this initiative and that you find NationStates and our community a more cheerful place because of it.[/b][/color][/size][/font]
 
 [credit]
 

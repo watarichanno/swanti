@@ -1,5 +1,5 @@
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]A few notes:[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=150][color=#1089e6][b]A few notes:[/b][/color][/size][/font]
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]If you see any inaccuracies, errors, or have ideas for improvements, please [url=https://www.nationstates.net/page=dispatch/id=1054970][color=#ff9900]contact us[/color][/url].[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]There are some minor inaccuracies in the data, read [url=https://www.nationstates.net/page=dispatch/id=1049890#faqdata][color=#ff9900]this[/color][/url] for more information.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]If you see any inaccuracies, errors, or have ideas for improvements, please [url=https://www.nationstates.net/page=dispatch/id=1054970][color=#ff9900]contact us[/color][/url].[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]There are some minor inaccuracies in the data, read [url=https://www.nationstates.net/page=dispatch/id=1049890#faqdata][color=#ff9900]this[/color][/url] for more information.[/size][/font]
 [/list]

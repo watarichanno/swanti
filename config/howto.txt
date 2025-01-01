@@ -1,105 +1,105 @@
 [header]
 
-[center][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=250][color=#1089e6][b]How-to guide on participating SWAN[/b][/color][/size][/font][/center]
+[center][font=Avenir, Segoe UI, sans-serif][size=250][color=#1089e6][b]How-to guide on participating SWAN[/b][/color][/size][/font][/center]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]This is a guide on how to do everything this initiative encourages you to. Basically, what you have to do is just endorse and endorse![/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]This is a guide on how to do everything this initiative encourages you to. Basically, what you have to do is just endorse and endorse![/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Endorsements are something a nation can give to other nations to show that they like those nations' flag, motto,... It is kinda like the "like" button on Facebook or Twitter, but endorsements have far more important roles than that such as increasing the influence of your nation, the voting power and influence of the Delegate, and making the region safer against external and internal security threats (You can read more about these [url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]here[/color][/url]), which is why the SWAN initiative's primary purpose is to encourage you to endorse.[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]Endorsements are something a nation can give to other nations to show that they like those nations' flag, motto,... It is kinda like the "like" button on Facebook or Twitter, but endorsements have far more important roles than that such as increasing the influence of your nation, the voting power and influence of the Delegate, and making the region safer against external and internal security threats (You can read more about these [url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]here[/color][/url]), which is why the SWAN initiative's primary purpose is to encourage you to endorse.[/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]In order to endorse a nation, you need to join [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly[/color][/url]. In this how-to guide, we will show you how to join the World Assembly, how to endorse a nation, how to endorse a lot of nations in a short time, and how to maximize your endorsement gain.[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]In order to endorse a nation, you need to join [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly[/color][/url]. In this how-to guide, we will show you how to join the World Assembly, how to endorse a nation, how to endorse a lot of nations in a short time, and how to maximize your endorsement gain.[/size][/font]
 
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How do I join the World Assembly?[/b][/color][/size][/font]
+[box][font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]How do I join the World Assembly?[/b][/color][/size][/font]
 
 [spoiler=Click to read...]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=130][color=#FF0000][b]Before starting, please note that you can only have one nation participates in the World Assembly at a time! You can have as many nations as you like but you can only have a maximum of one nation in the World Assembly at any given time.[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=130][color=#FF0000][b]Before starting, please note that you can only have one nation participates in the World Assembly at a time! You can have as many nations as you like but you can only have a maximum of one nation in the World Assembly at any given time.[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Step 1: Get an Email Account[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=150][color=#1089e6][b]Step 1: Get an Email Account[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]In order to join the World Assembly, you need an email account. You can use any account from any service you prefer. We recommend you to use [url=https://accounts.google.com/signup/v2/webcreateaccount?hl=en-GB&flowName=GlifWebSignIn&flowEntry=SignUp][color=#ff9900]Gmail[/color][/url] since it is reliable for NationStates-related purposes. [/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]In order to join the World Assembly, you need an email account. You can use any account from any service you prefer. We recommend you to use [url=https://accounts.google.com/signup/v2/webcreateaccount?hl=en-GB&flowName=GlifWebSignIn&flowEntry=SignUp][color=#ff9900]Gmail[/color][/url] since it is reliable for NationStates-related purposes. [/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Step 2: Set Email Address for Your Nation[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=150][color=#1089e6][b]Step 2: Set Email Address for Your Nation[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]To set the email address of your email account for your nation, just click the [b]Settings[/b] button with the gear icon at the top to open the setting page then scroll down, enter your email address in the [b]E-mail[/b] box then click [b]Update[/b].[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]To set the email address of your email account for your nation, just click the [b]Settings[/b] button with the gear icon at the top to open the setting page then scroll down, enter your email address in the [b]E-mail[/b] box then click [b]Update[/b].[/size][/font]
 
 [center][img]https://i.imgur.com/hWtjMr7.png[/img][/center]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Step 3: Apply for the World Assembly[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=150][color=#1089e6][b]Step 3: Apply for the World Assembly[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Go to [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly page[/color][/url] (You can go to this page from anywhere by clicking the [b]World Assembly[/b] button on the left) then click the [b]Apply to Join[/b] button.[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]Go to [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly page[/color][/url] (You can go to this page from anywhere by clicking the [b]World Assembly[/b] button on the left) then click the [b]Apply to Join[/b] button.[/size][/font]
 
 [center][img]https://i.imgur.com/wnQOnbY.png[/img][/center]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=150][color=#1089e6][b]Step 4: Be Admitted to the World Assembly[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=150][color=#1089e6][b]Step 4: Be Admitted to the World Assembly[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]A few seconds after applying, NationStates will send you a confirmation email. Open this email then click the link in there. [/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]A few seconds after applying, NationStates will send you a confirmation email. Open this email then click the link in there. [/size][/font]
 
 [center][img]https://i.imgur.com/9DBSQWf.png[/img][/center]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]A page will open, click the [b]Confirm: Join World Assembly[/b] button.[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]A page will open, click the [b]Confirm: Join World Assembly[/b] button.[/size][/font]
 
 [center][img]https://i.imgur.com/IrbGn1Y.png[/img][/center]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You're done! Welcome to the World Assembly! If this is the first time you do this, NationStates will give you a banner to celebrate. You now have the power to vote on legislation in the two chambers of the World Assembly: [url=https://www.nationstates.net/page=ga][color=#ff9900]the General Assembly[/color][/url] and [url=https://www.nationstates.net/page=sc][color=#ff9900]the Security Council[/color][/url] as well as endorse nations (Look below to know how to endorse a nation).[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]You're done! Welcome to the World Assembly! If this is the first time you do this, NationStates will give you a banner to celebrate. You now have the power to vote on legislation in the two chambers of the World Assembly: [url=https://www.nationstates.net/page=ga][color=#ff9900]the General Assembly[/color][/url] and [url=https://www.nationstates.net/page=sc][color=#ff9900]the Security Council[/color][/url] as well as endorse nations (Look below to know how to endorse a nation).[/size][/font]
 [/spoiler]
 [/box]
 
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How do I endorse a nation?[/b][/color][/size][/font]
+[box][font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]How do I endorse a nation?[/b][/color][/size][/font]
 
 [spoiler=Click to read...]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]To endorse a nation, just open the page of that nation then scroll down and click the [b]Endorse <nation name>[/b] button![/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]To endorse a nation, just open the page of that nation then scroll down and click the [b]Endorse <nation name>[/b] button![/size][/font]
 
 [center][img]https://i.imgur.com/6jSwPG5.png[/img][/center]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=140][b]Note:[/b][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=140][b]Note:[/b][/size][/font]
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You need to be in [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly[/color][/url] in order to endorse a nation. Look above for the guide on how to join the World Assembly.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You cannot endorse a nation that is not in the World Assembly and in the same region as you.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]You need to be in [url=https://www.nationstates.net/page=un][color=#ff9900]the World Assembly[/color][/url] in order to endorse a nation. Look above for the guide on how to join the World Assembly.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]You cannot endorse a nation that is not in the World Assembly and in the same region as you.[/size][/font]
 [/list]
 
 [/spoiler]
 [/box]
 
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]Who should I endorse?[/b][/color][/size][/font]
+[box][font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]Who should I endorse?[/b][/color][/size][/font]
 [spoiler=Click to read...]
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The first nation you should endorse is the Delegate ([delegate]).[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]After that, endorse all member nations of the [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url]: [SPCG_list].[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Finally, endorse any other nation. We have a list of nations that you can endorse below.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]The first nation you should endorse is the Delegate ([delegate]).[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]After that, endorse all member nations of the [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]South Pacific Coral Guard[/color][/url]: [SPCG_list].[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Finally, endorse any other nation. We have a list of nations that you can endorse below.[/size][/font]
 [/list]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The more nations you endorse, the more endorsements other nations will give back to you and the higher the chance you will be ranked in the top 0.1% of NationStates for nations with highest endorsements and receive awards to commend your contribution to our region![/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]The more nations you endorse, the more endorsements other nations will give back to you and the higher the chance you will be ranked in the top 0.1% of NationStates for nations with highest endorsements and receive awards to commend your contribution to our region![/size][/font]
 
 [/spoiler]
 [/box]
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How can I find nations to endorse?[/b][/color][/size][/font]
+[box][font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]How can I find nations to endorse?[/b][/color][/size][/font]
 
 [spoiler=Click to read...]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can find nations to endorse in the following places:[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]You can find nations to endorse in the following places:[/size][/font]
 
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=list_nations/region=the_south_pacific?censusid=66][color=#ff9900]NationStates endorsement census[/color][/url].[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The list in [url=https://www.nationstates.net/page=dispatch/id=1077661][color=#ff9900]this dispatch[/color][/url]. (Please note that it can be outdated for up to 24 hours)[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=activity/view=region.the_south_pacific/filter=endo][color=#ff9900]The regional happening page[/url][/color].[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]The [b]Endorsements Received[/b] part below the page of nations that have lots of endorsements such as the Delegate and member nations of the [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]Coral Guards[/color][/url]. (View a list of nations with the most endorsements [url=https://www.nationstates.net/page=dispatch/id=1043685][color=#ff9900]here[/color][/url])[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=list_nations/region=the_south_pacific?censusid=66][color=#ff9900]NationStates endorsement census[/color][/url].[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]The list in [url=https://www.nationstates.net/page=dispatch/id=1077661][color=#ff9900]this dispatch[/color][/url]. (Please note that it can be outdated for up to 24 hours)[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=activity/view=region.the_south_pacific/filter=endo][color=#ff9900]The regional happening page[/url][/color].[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]The [b]Endorsements Received[/b] part below the page of nations that have lots of endorsements such as the Delegate and member nations of the [url=https://www.nationstates.net/page=dispatch/id=1398091][color=#ff9900]Coral Guards[/color][/url]. (View a list of nations with the most endorsements [url=https://www.nationstates.net/page=dispatch/id=1043685][color=#ff9900]here[/color][/url])[/size][/font]
 [/list]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Please note that there are up to [wa_nation_num] nations that you can endorse so you may want to check out the below question on how to quickly endorse a lot of nations.[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]Please note that there are up to [wa_nation_num] nations that you can endorse so you may want to check out the below question on how to quickly endorse a lot of nations.[/size][/font]
 [/spoiler][/box][anchor=guide_endotarting][/anchor][box]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How can I endorse a lot of nations in a short time?[/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]How can I endorse a lot of nations in a short time?[/b][/color][/size][/font]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Please read [url=https://www.nationstates.net/page=dispatch/id=1077661][color=#ff9900]this dispatch[/color][/url][/size][/font].
+[font=Avenir, Segoe UI, sans-serif][size=120]Please read [url=https://www.nationstates.net/page=dispatch/id=1077661][color=#ff9900]this dispatch[/color][/url][/size][/font].
 
 [/box]
 
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How can I maximize the number of endorsements I will gain?[/b][/color][/size][/font]
+[box][font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]How can I maximize the number of endorsements I will gain?[/b][/color][/size][/font]
 
 [spoiler=Click to read...]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]To make the number of endorsements you will gain as high as possible, you can:[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]To make the number of endorsements you will gain as high as possible, you can:[/size][/font]
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][url=https://www.nationstates.net/page=telegrams][color=#ff9900]Send a telegram[/color][/url] to ask a nation for an endorsement. [b](Remember to endorse them first before doing this!)[/b][/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Keep your nation in the World Assembly as long as possible and continue to endorse nations. If you have nearly endorsed everyone (You can check that on our [url=https://www.nationstates.net/page=dispatch/id=1043681][color=#ff9900]census[/url][/color]), look at [url=https://www.nationstates.net/page=activity/view=region.the_south_pacific/filter=move+member+endo][color=#ff9900]the regional happening page[/color][/url] to find new nations that just joined the World Assembly or migrated to our region to endorse.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=telegrams][color=#ff9900]Send a telegram[/color][/url] to ask a nation for an endorsement. [b](Remember to endorse them first before doing this!)[/b][/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]Keep your nation in the World Assembly as long as possible and continue to endorse nations. If you have nearly endorsed everyone (You can check that on our [url=https://www.nationstates.net/page=dispatch/id=1043681][color=#ff9900]census[/url][/color]), look at [url=https://www.nationstates.net/page=activity/view=region.the_south_pacific/filter=move+member+endo][color=#ff9900]the regional happening page[/color][/url] to find new nations that just joined the World Assembly or migrated to our region to endorse.[/size][/font]
 [/list]
 
 [center][img]https://i.imgur.com/oKG7hye.png[/img][/center]
@@ -107,29 +107,21 @@
 [/spoiler]
 [/box]
 
-[box][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]How many endorsements can I have?[/color] [color=#FF0000](Required reading)[/color][/b][/size][/font]
+[box][font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]How many endorsements can I have?[/color] [color=#FF0000](Required reading)[/color][/b][/size][/font]
 
 [spoiler=Click to read...]
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]Your endorsement count must not be higher than a limit called [url=https://www.nationstates.net/page=dispatch/id=1048805][color=#ff9900][b]the endorsement cap[/b][/color][/url] ([b]Endocap[/b] for short).[/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][b]The current endorsement cap is [endo_cap][/b], you can also find the number on the World Factbook Entry of our region.[/size][/font]
-
-[center][img]https://i.imgur.com/nbHIJjg.png[/img][/center]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]If you exceed the endorsement cap, a member nation of the [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]Council on Regional Security[/color][/url] will telegram you to tell you to do certain actions to bring down your endorsement count.[/size][/font]
-
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can read more information about the Council on Regional Security [url=https://www.nationstates.net/page=dispatch/id=1048821][color=#ff9900]here[/color][/url] as well as the endorsement cap and what will happen if you exceed it [url=https://www.nationstates.net/page=dispatch/id=1048805][color=#ff9900]here[/color][/url].[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120]Your endorsement count must not be higher than a limit called [url=https://www.nationstates.net/page=dispatch/id=1048805][color=#ff9900][b]the endorsement cap[/b][/color][/url] ([b]Endocap[/b] for short).[/size][/font]
 [/spoiler]
 [/box]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=170][color=#1089e6][b]I want more information![/b][/color][/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=170][color=#1089e6][b]I want more information![/b][/color][/size][/font]
 [list]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]You can check out our [url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]benefits dispatch[/color][/url] to know the rationale behind many actions this initiative encourages you to do.[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]For more information on everything, you should check out our [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
-[*][font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120]If you want to know even more, give a look at our [url=https://www.nationstates.net/page=dispatch/id=1049890][color=#ff9900]FAQ[/color][/url].[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]You can check out our [url=https://www.nationstates.net/page=dispatch/id=1050443][color=#ff9900]benefits dispatch[/color][/url] to know the rationale behind many actions this initiative encourages you to do.[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]For more information on everything, you should check out our [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120]If you want to know even more, give a look at our [url=https://www.nationstates.net/page=dispatch/id=1049890][color=#ff9900]FAQ[/color][/url].[/size][/font]
 [/list]
 
-[font=Open Sans, Frutiger, Frutiger Linotype, Segoe UI, Helvetica Neue, Arial][size=120][color=#1089e6]If you want to know more about the SWAN initiative, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
+[font=Avenir, Segoe UI, sans-serif][size=120][color=#1089e6]If you want to know more about the SWAN initiative, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
 
 [credit]
 
