@@ -1,16 +1,90 @@
 import time
-import sys
 import io
+import re
+from typing import Mapping
 
-import utils
+import requests
+
 from utils import config, get_timestamp, round_str, get_logger
 from utils import gen_list_table, gen_census_table, gen_center_td, gen_change_format
 from utils import gen_text_list, wrap_nation_bbcode, get_value_from_list
 from data import data
-import nsinterface
+
+NS_API_URL = "https://www.nationstates.net/cgi-bin/api.cgi"
+NS_API_SLEEP = 0.8
 
 
 logger = get_logger(__name__)
+
+
+class NsDispatchUtil:
+    def __init__(self, user_agent: str):
+        self.session = requests.Session()
+        self.session.headers = {"user-agent": user_agent}
+        self.nation_name = None
+        self.exec_token_regex = re.compile(r"<SUCCESS>(.+)</SUCCESS>")
+
+    def login(self, nation_name: str, password: str) -> None:
+        req_params = {"nation": nation_name, "q": "ping"}
+        req_headers = {"X-Password": password}
+        resp = self.session.get(
+            NS_API_URL,
+            headers=req_headers,
+            params=req_params,
+        )
+
+        if resp.status_code == 403:
+            logger.error(f"Incorrect password for dispatch nation {nation_name}")
+            exit(1)
+
+        self.nation_name = nation_name
+        self.session.headers["X-Pin"] = resp.headers["X-Pin"]
+        logger.info(f'Logged into dispatch nation "{nation_name}"')
+
+    def send_req(self, req_body: Mapping[str, str]) -> None:
+        resp = self.session.post(
+            NS_API_URL,
+            data=req_body | {"mode": "prepare"},
+        )
+        exec_token = self.exec_token_regex.search(resp.text).group(1)
+
+        self.session.post(
+            NS_API_URL, data=req_body | {"mode": "execute", "token": exec_token}
+        )
+
+    def add_dispatch(
+        self, title: str, text: str, category: str, subcategory: str
+    ) -> None:
+        req_body = {
+            "c": "dispatch",
+            "dispatch": "add",
+            "nation": self.nation_name,
+            "title": title,
+            "text": text,
+            "category": category,
+            "subcategory": subcategory,
+        }
+        self.send_req(req_body=req_body)
+
+    def edit_dispatch(
+        self, id: str, title: str, text: str, category: str, subcategory: str
+    ) -> None:
+        req_body = {
+            "c": "dispatch",
+            "dispatch": "edit",
+            "dispatchid": id,
+            "nation": self.nation_name,
+            "title": title,
+            "text": text,
+            "category": category,
+            "subcategory": subcategory,
+        }
+        self.send_req(req_body=req_body)
+
+
+auth_conf = config["auth"]
+dispatch_util = NsDispatchUtil(auth_conf["user_agent"])
+dispatch_util.login(auth_conf["nation"], auth_conf["password"])
 
 
 def upload_dispatch(ns, dispatch, title, category, subcategory, edit=None):
@@ -227,58 +301,54 @@ def get_placeholders(awards=False):
 
 
 def update_dispatch():
-    dispatch_template_list = config["dispatch"]["dispatches"]
-    ns = nsinterface.create_nsii_instance()
+    template_list = config["dispatch"]["dispatches"]
     placeholders = get_placeholders()
 
-    for dispatch_config in dispatch_template_list:
-        template_filename = dispatch_config["template_file"]
+    for conf in template_list:
+        template_filename = conf["template_file"]
         try:
-            dispatch = io.open(template_filename, "r", encoding="utf8").read()
+            template = io.open(template_filename, "r", encoding="utf8").read()
             logger.info("Opened template file: %s", template_filename)
         except IOError:
             logger.error("Cannot open template file: %s", template_filename)
-            sys.exit()
+            exit(1)
 
-        dispatch = process_dispatch(dispatch, placeholders)
-        logger.info("Processed dispatch: %s", template_filename)
-        logger.debug("Processed dispatch content:\n%s", dispatch)
+        text = process_dispatch(template, placeholders)
+        logger.debug("Processed dispatch content:\n%s", text)
 
-        upload_dispatch(
-            ns,
-            dispatch,
-            dispatch_config["title"],
-            dispatch_config["category"],
-            dispatch_config["subcategory"],
-            dispatch_config["edit_id"],
+        dispatch_util.edit_dispatch(
+            conf["edit_id"],
+            conf["title"],
+            text,
+            conf["category"],
+            conf["subcategory"],
         )
-        logger.info("Uploaded dispatch: %s", template_filename)
 
-        time.sleep(6)
+        logger.info("Udpated dispatch: %s", template_filename)
+
+        time.sleep(NS_API_SLEEP)
 
 
 def create_award_dispatch():
-    dispatch_config = config["awards"]
-    template_filename = dispatch_config["template_file"]
-    ns = nsinterface.create_nsii_instance()
+    conf = config["awards"]
+    template_filename = conf["template_file"]
     placeholders = get_placeholders(awards=True)
 
     try:
-        dispatch = open(template_filename).read()
+        template = open(template_filename).read()
         logger.info("Opened award template file: %s", template_filename)
     except IOError:
         logger.error("Cannot open award template file: %s", template_filename)
-        sys.exit()
+        exit(1)
 
-    dispatch = process_dispatch(dispatch, placeholders)
-    logger.info("Processed dispatch: %s", template_filename)
-    logger.debug("Processed dispatch content:\n%s", dispatch)
+    text = process_dispatch(template, placeholders)
+    logger.debug("Processed dispatch content:\n%s", text)
 
-    upload_dispatch(
-        ns,
-        dispatch,
-        dispatch_config["title"],
-        dispatch_config["category"],
-        dispatch_config["subcategory"],
+    dispatch_util.add_dispatch(
+        conf["title"],
+        text,
+        conf["category"],
+        conf["subcategory"],
     )
+
     logger.info("Uploaded dispatch: %s", template_filename)

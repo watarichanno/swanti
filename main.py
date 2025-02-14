@@ -1,11 +1,9 @@
 import dispatch
-import data
 import graph
 import image
 import archive
 import imgurinterface
 import googleinterface
-import utils
 
 
 def main():
@@ -14,7 +12,6 @@ def main():
     googleinterface.update_sheet()
     graph.generate_img()
     image.final_image()
-    # googleinterface.upload_image()
     imgurinterface.upload_image()
     dispatch.update_dispatch()
 

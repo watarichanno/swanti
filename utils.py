@@ -4,7 +4,6 @@ import json
 from datetime import datetime
 import shutil
 import requests
-import time
 
 import logging
 from logging import config as log_config
@@ -12,10 +11,10 @@ from logging import config as log_config
 import sqlite3
 
 
-DUMP_URL = 'https://www.nationstates.net/pages/nations.xml.gz'
+DUMP_URL = "https://www.nationstates.net/pages/nations.xml.gz"
 
 
-log_config.fileConfig('config/logging.ini')
+log_config.fileConfig("config/logging.ini")
 
 
 def get_logger(name):
@@ -26,23 +25,24 @@ def get_logger(name):
 
 logger = get_logger(__name__)
 
+
 # Class to manage configurations
 class Configuration(object):
     def __init__(self):
         self.config = None
         try:
-            with open('config/config_tsp.json') as file:
+            with open("config/config_tsp.json") as file:
                 self.config = json.loads(file.read().replace("\n", ""))
-            logger.info('Loaded configuration file')
+            logger.info("Loaded configuration file")
         except IOError:
-            logger.error('Cannot open configuration file')
+            logger.error("Cannot open configuration file")
             sys.exit()
         except ValueError:
-            logger.error('Syntax errors in configuration file')
+            logger.error("Syntax errors in configuration file")
             sys.exit()
 
-        if self.config['first_time_run'] is True:
-            logger.info('First time running enabled')
+        if self.config["first_time_run"] is True:
+            logger.info("First time running enabled")
 
     def __getitem__(self, item):
         return self.config[item]
@@ -52,18 +52,18 @@ config = Configuration()
 
 
 # Get timestamp
-def get_timestamp(time_format='%Y/%m/%d %H:%M:%S'):
-    if config['data']['false_time'] is False:
+def get_timestamp(time_format="%Y/%m/%d %H:%M:%S"):
+    if config["data"]["false_time"] is False:
         timestamp = str(datetime.utcnow().strftime(time_format))
     else:
-        timestamp = config['data']['false_time']
+        timestamp = config["data"]["false_time"]
 
-    logger.debug('Got timestamp: %s', timestamp)
+    logger.debug("Got timestamp: %s", timestamp)
     return timestamp
 
 
 def add_timestamp(text):
-    return text.replace('[timestamp]', get_timestamp('%Y/%m/%d'))
+    return text.replace("[timestamp]", get_timestamp("%Y/%m/%d"))
 
 
 # Round number
@@ -75,43 +75,45 @@ def round_str(value, disp_format="%.2f", digit=3):
 
 # Download data dump if one does not exist
 def get_datadump():
-    file_name = config['data']['dump_file']
+    file_name = config["data"]["dump_file"]
     if os.path.isfile(file_name):
-        logger.info('Data dump file already exists. No download')
+        logger.info("Data dump file already exists. No download")
         return
 
-    respond = requests.get(DUMP_URL, headers={'user-agent': config['auth']['user_agent']}, stream=True)
+    respond = requests.get(
+        DUMP_URL, headers={"user-agent": config["auth"]["user_agent"]}, stream=True
+    )
 
     try:
         respond.raise_for_status()
     except requests.HTTPError as e:
-        logger.error('Failed to download data dump. HTTP error: %d',
-                     e.response.status_code)
-        sys.exit()
-    except requests.exceptions.ConnectionError as e:
-        logger.error('Failed to download data dump. Connection error',
-                     exc_info=True)
-        sys.exit()
+        logger.error(
+            "Failed to download data dump. HTTP error: %d", e.response.status_code
+        )
+        exit(1)
+    except requests.exceptions.ConnectionError:
+        logger.error("Failed to download data dump. Connection error", exc_info=True)
+        exit(1)
 
-    with open(file_name, 'wb') as file:
-            shutil.copyfileobj(respond.raw, file)
-    logger.info('Downloaded data dump')
+    with open(file_name, "wb") as file:
+        shutil.copyfileobj(respond.raw, file)
+    logger.info("Downloaded data dump")
 
 
 # Get SQL connection and cursor
 def get_sql_interface(path, no_conn=False, backup=False):
     try:
         conn = sqlite3.connect(path)
-        logger.info('Got SQL connection')
+        logger.info("Got SQL connection")
         cursor = conn.cursor()
-        logger.info('Got SQL cursor')
+        logger.info("Got SQL cursor")
     except sqlite3.DatabaseError:
-        logger.error('SQL database error', exc_info=True)
+        logger.error("SQL database error", exc_info=True)
         sys.exit()
 
     if backup is True:
-        filename = "{}.backup".format(path.split('/')[-1])
-        backup_filepath = os.path.join(config['db_archive']['backup_path'], filename)
+        filename = "{}.backup".format(path.split("/")[-1])
+        backup_filepath = os.path.join(config["db_archive"]["backup_path"], filename)
 
         shutil.copyfile(path, backup_filepath)
 
@@ -144,10 +146,10 @@ def get_change_with_perc(current_value, last_value):
 
 # Wrap standard bbcode around a string
 def style_text(text, highlight=False):
-    styled_text = config['dispatch']['standard_bbcode'].format(text)
+    styled_text = config["dispatch"]["standard_bbcode"].format(text)
 
     if highlight is True:
-        styled_text = config['dispatch']['highlight_bbcode'].format(styled_text)
+        styled_text = config["dispatch"]["highlight_bbcode"].format(styled_text)
 
     return styled_text
 
@@ -168,10 +170,14 @@ def gen_list_table(list, column_num, disable_format=False, noflag=False):
         try:
             for j in range(i, i + column_num):
                 if disable_format:
-                    table_bbcode_text += "[td]{}[/td]".format(wrap_nation_bbcode(list[j], noflag))
+                    table_bbcode_text += "[td]{}[/td]".format(
+                        wrap_nation_bbcode(list[j], noflag)
+                    )
                 else:
-                    table_bbcode_text += "[td]{}[/td]".format(style_text(wrap_nation_bbcode(list[j], noflag)))
-        except(IndexError):
+                    table_bbcode_text += "[td]{}[/td]".format(
+                        style_text(wrap_nation_bbcode(list[j], noflag))
+                    )
+        except IndexError:
             pass
         table_bbcode_text += "[/tr]"
 
@@ -185,7 +191,7 @@ def gen_change_format(tuple):
         change = round_str(change)
 
     if tuple[1] is None:
-        perc_change = 'N/A'
+        perc_change = "N/A"
     else:
         perc_change = round_str(tuple[1])
 
@@ -213,7 +219,9 @@ def get_formatted_census_cell(cell_data, nation_bbcode=False, highlight=False):
 
 
 # Generate a census table from a list of lists
-def gen_census_table(list, nation_idx, highlight_column_idx=[], highlight_check_idx=0, disp_rank=True):
+def gen_census_table(
+    list, nation_idx, highlight_column_idx=[], highlight_check_idx=0, disp_rank=True
+):
     table_bbcode_text = ""
 
     rank = 0
@@ -230,7 +238,9 @@ def gen_census_table(list, nation_idx, highlight_column_idx=[], highlight_check_
 
             if i.index(j) == nation_idx:
                 if i.index(j) in highlight_column_idx and i[highlight_check_idx]:
-                    cell = get_formatted_census_cell(j, nation_bbcode=True, highlight=True)
+                    cell = get_formatted_census_cell(
+                        j, nation_bbcode=True, highlight=True
+                    )
                 else:
                     cell = get_formatted_census_cell(j, nation_bbcode=True)
             elif i.index(j) in highlight_column_idx and i[highlight_check_idx]:
@@ -250,8 +260,7 @@ def gen_center_td(text):
     return "[tr][td][center]{}[/center][/td][/tr]".format(style_text(text))
 
 
-def gen_text_list(list, separator=', ', noflag=False):
+def gen_text_list(list, separator=", ", noflag=False):
     text_list = separator.join([wrap_nation_bbcode(i, noflag) for i in list])
 
     return text_list
-

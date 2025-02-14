@@ -8,7 +8,6 @@ import networkx as nx
 
 from utils import config
 from utils import get_datadump
-from utils import get_sql_interface
 from utils import get_logger
 
 logger = get_logger(__name__)
@@ -406,7 +405,9 @@ def analyse(data, nx_graph):
     lowest_spcg_nation_endo = lowest_spcg_nation[1]
 
     data["endo_cap"] = lowest_spcg_nation_endo
-    data["endo_caution_line"] = lowest_spcg_nation_endo * config["data"]["endo_caution_line_perc"] / 100
+    data["endo_caution_line"] = (
+        lowest_spcg_nation_endo * config["data"]["endo_caution_line_perc"] / 100
+    )
 
     logger.debug("Endo cap: %f", data["endo_cap"])
     logger.debug("Endo cap ref: %s", data["endo_cap_ref"])

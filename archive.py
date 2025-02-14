@@ -76,7 +76,7 @@ def get_data_from_table(cursor, table, nation, column):
     result = cursor.execute(query_str, params).fetchone()
 
     logger.debug(
-        ('Got data from table "%s", column "%s"' 'of nation "%s": %r'),
+        ('Got data from table "%s", column "%s"of nation "%s": %r'),
         table,
         column,
         nation,
@@ -190,13 +190,6 @@ def update_accu_table(cursor, nx_graph, nation):
 
     cursor.execute(query_str, params)
     logger.debug('Updated accu of "%s"', nation)
-
-
-def update_endo_competition_table(cursor, nx_graph, nation):
-    if config["endo_competition"] is False:
-        return
-
-    total_given_endo = get_total_given_endo(cursor, nx_graph, nation)
 
 
 def update_in_out_endo_table(cursor, gen_time, nx_graph, nation):
@@ -325,7 +318,7 @@ def create_today_award_table(cursor):
     create_table(
         cursor,
         gen_time,
-        ("nation text, out_endo integer," "in_endo integer, out_endo_list text"),
+        ("nation text, out_endo integer,in_endo integer, out_endo_list text"),
         index="{}_nation_idx".format(gen_time),
         idx_columns="nation",
         unique=True,
