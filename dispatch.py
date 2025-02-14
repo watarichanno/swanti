@@ -308,7 +308,7 @@ def update_dispatch():
         template_filename = conf["template_file"]
         try:
             template = io.open(template_filename, "r", encoding="utf8").read()
-            logger.info("Opened template file: %s", template_filename)
+            logger.debug("Opened template file: %s", template_filename)
         except IOError:
             logger.error("Cannot open template file: %s", template_filename)
             exit(1)
@@ -324,7 +324,7 @@ def update_dispatch():
             conf["subcategory"],
         )
 
-        logger.info("Udpated dispatch: %s", template_filename)
+        logger.info("Edited dispatch: %s", template_filename)
 
         time.sleep(NS_API_SLEEP)
 
@@ -336,7 +336,7 @@ def create_award_dispatch():
 
     try:
         template = open(template_filename).read()
-        logger.info("Opened award template file: %s", template_filename)
+        logger.debug("Opened award template file: %s", template_filename)
     except IOError:
         logger.error("Cannot open award template file: %s", template_filename)
         exit(1)
@@ -351,4 +351,4 @@ def create_award_dispatch():
         conf["subcategory"],
     )
 
-    logger.info("Uploaded dispatch: %s", template_filename)
+    logger.info("Created dispatch: %s", template_filename)
