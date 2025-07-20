@@ -144,9 +144,9 @@
 [*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=dispatch/id=2614421][color=#ff9900]Award #78, January 2025[/color][/url][/size][/font]
 [*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=dispatch/id=2624579][color=#ff9900]Award #79, February 2025[/color][/url][/size][/font]
 [*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=dispatch/id=2638566][color=#ff9900]Award #80, March 2025[/color][/url][/size][/font]
-[*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=dispatch/id=2638566][color=#ff9900]Award #81, April 2025[/color][/url][/size][/font]
-[*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=dispatch/id=2652312][color=#ff9900]Award #82, May 2025[/color][/url][/size][/font]
-[*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=dispatch/id=2665773][color=#ff9900]Award #83, June 2025[/color][/url][/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=dispatch/id=2652312][color=#ff9900]Award #81, April 2025[/color][/url][/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=dispatch/id=2665773][color=#ff9900]Award #82, May 2025[/color][/url][/size][/font]
+[*][font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=dispatch/id=2677398][color=#ff9900]Award #83, June 2025[/color][/url][/size][/font]
 [/list][/box]
 [font=Avenir, Segoe UI, sans-serif][size=120][color=#1089e6]If you want to know about the technical details of the data that are used to determine the awards, please read[/color] [url=https://www.nationstates.net/page=dispatch/id=1049890#faqdata][color=#ff9900]this[/color][/url][color=#1089e6]. If you want to know more about the SWAN initiative in general, check out our[/color] [url=https://www.nationstates.net/page=dispatch/id=1054969][color=#ff9900]dispatch index[/color][/url].[/size][/font]
 
