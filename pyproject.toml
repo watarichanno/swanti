@@ -1,25 +1,19 @@
-[tool.poetry]
+[project]
 name = "swanti"
 version = "0.1.0"
-description = "TSP SWAN script (Experimental)"
-authors = ["USoVietnam"]
-license = "MIT"
-package-mode = false
+description = "Scripts for the Southern World Assembly Initiative program of the South Pacific"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-api-python-client>=2.177.0",
+    "networkx>=3.5",
+    "pillow>=11.3.0",
+    "pygraphviz>=1.14",
+    "pyimgur>=0.8.1",
+    "requests>=2.32.4",
+]
 
-[tool.poetry.dependencies]
-python = "^3.11"
-Pillow = "^10.1.0"
-pyimgur = "^0.6.0"
-pygraphviz = "^1.11"
-networkx = "^3.2.1"
-requests = "^2.31.0"
-google-api-python-client = "^2.108.0"
-google-auth-httplib2 = "^0.1.1"
-google-auth-oauthlib = "^1.1.0"
-
-[tool.poetry.group.dev.dependencies]
-ruff = "^0.9.6"
-
-[build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
+[dependency-groups]
+dev = [
+    "ruff>=0.12.4",
+]
