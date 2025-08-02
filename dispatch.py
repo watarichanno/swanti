@@ -212,7 +212,7 @@ def get_placeholders(awards=False):
                         data["perc_max_in_endo_num_wa_change"]
                     ),
                     "[SPCG_list]": gen_text_list(config["data"]["SPCG"]),
-                    "[SPCG_table_list]": gen_list_table(config["data"]["SPCG"], 5),
+                    "[SPCG_table_list]": gen_list_table(config["data"]["SPCG"], 4),
                     "[SPCG_num]": str(len(config["data"]["SPCG"])),
                     "[SPCG_census]": gen_census_table(
                         data["SPCG_census"], 0, disp_rank=False

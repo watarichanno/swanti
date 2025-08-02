@@ -56,9 +56,9 @@
 [tr][td][font=Avenir, Segoe UI, sans-serif][size=120][b]Delegate-elect [delegate][/b][/size][/font][/td][td][font=Avenir, Segoe UI, sans-serif][size=120][delegate_elect_in_endo_num][/size][/font][/td][td][font=Avenir, Segoe UI, sans-serif][size=120][delegate_elect_in_endo_num_change][/size][/font][/td][/tr]
 [/table]
 
-[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vRDg4gUN_iH8U_NM15IcPI4Razjp_S1MHEU2Z0l-I1KkhLWtn3i3JL7EI_2biP3yxmj85rB_fAvNivX/pubchart?oid=1474086469&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vRDg4gUN_iH8U_NM15IcPI4Razjp_S1MHEU2Z0l-I1KkhLWtn3i3JL7EI_2biP3yxmj85rB_fAvNivX/pubchart?oid=1474086469&format=image[/img][/url][/center]
-
 [center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vTrFv8GmEI--19sOsMJDSX9iPyTqlteJ4NFVaYIZfZlszShFHe_sT9CFas_K1lpcKiS-OQpfJZlclIo/pubchart?oid=1474086469&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vTrFv8GmEI--19sOsMJDSX9iPyTqlteJ4NFVaYIZfZlszShFHe_sT9CFas_K1lpcKiS-OQpfJZlclIo/pubchart?oid=1474086469&format=image[/img][/url][/center]
+
+[center][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=840874794&format=interactive][img]https://docs.google.com/spreadsheets/d/e/2PACX-1vT_HrN4vY_ybjtI_QG8OXgif-HqNfxv8chMNW9gqx9NnlHEZpj2mxtpEhP6mc9kc9rO0emXathAA4fS/pubchart?oid=840874794&format=image[/img][/url][/center]
 [/box]
 
 [box]
