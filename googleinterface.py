@@ -1,8 +1,8 @@
 from google.oauth2 import service_account
-from googleapiclient import discovery, http
+from googleapiclient import discovery
 
 from utils import config, round_str, get_timestamp
-from utils import get_logger, get_value_from_list, add_timestamp
+from utils import get_logger, get_value_from_list
 from data import data
 
 
@@ -136,37 +136,3 @@ def update_sheet():
             delegate_transition_values,
         )
         logger.info("Updated delegate transition sheet")
-
-
-def get_shareable_link(service, id):
-    permission = {"type": "anyone", "role": "reader"}
-    service.permissions().create(fileId=id, body=permission).execute()
-    logger.info("Added reader role to everyone")
-
-    respond = service.files().get(fileId=id, fields="webViewLink").execute()
-    shareable_link = respond["webViewLink"]
-    logger.info('Got shareable link: "%s"', shareable_link)
-
-    return shareable_link
-
-
-def upload_image():
-    service = get_service("drive", "v3", DRIVE_SCOPES)
-
-    media = http.MediaFileUpload(
-        config["final_image"]["save_path"], mimetype="image/png", resumable=True
-    )
-
-    metadata = {
-        "name": add_timestamp(config["google_service"]["portrait_name"]),
-        "parents": [config["google_service"]["portrait_folder_id"]],
-    }
-
-    file_id = (
-        service.files()
-        .create(body=metadata, media_body=media, fields="id")
-        .execute()["id"]
-    )
-    logger.info("Uploaded image to Drive")
-
-    data["endo_map_url"] = get_shareable_link(service, file_id)

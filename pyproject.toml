@@ -7,13 +7,8 @@ requires-python = ">=3.13"
 dependencies = [
     "google-api-python-client>=2.177.0",
     "networkx>=3.5",
-    "pillow>=11.3.0",
-    "pygraphviz>=1.14",
-    "pyimgur>=0.8.1",
     "requests>=2.32.4",
 ]
 
 [dependency-groups]
-dev = [
-    "ruff>=0.12.4",
-]
+dev = ["ruff>=0.12.4"]
