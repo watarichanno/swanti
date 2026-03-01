@@ -1,10 +1,15 @@
 [background-block=#019AED][center][color=#019aed].[/color]
-[img]http://tspforums.xyz/images/18myskins/logo.png[/img][color=#019aed].[/color][/center][center][font=Avenir, Segoe UI, sans-serif][size=170][color=#fff][b]The Government of the South Pacific[/b][/color][/size][/font]
+[img]https://i.imgur.com/82cOeZz.png[/img][color=#019aed].[/color][/center][center][font=Avenir, Segoe UI, sans-serif][size=170][color=#fff][b]The Government of the South Pacific[/b][/color][/size][/font]
 [font=Avenir, Segoe UI, sans-serif][size=120][url=https://www.nationstates.net/page=dispatch/id=1042647][color=#fff]This notice is a part of the Southern World Assembly Initiative[/color][/url][/size][/font]
 [color=#38b9ff].[/color][/center][/background-block]
 
 
 [center][font=Avenir, Segoe UI, sans-serif][size=180][color=#1089e6][b]Please endorse the Delegate and all Coral Guard nations![/b][/color][/size][/font][/center]
+
+[box][font=Avenir, Segoe UI, sans-serif][size=140][color=#1089e6][b]There is a new Coral Guard nation! Please endorse them![/b][/color][/size][/font]
+
+[font=Avenir, Segoe UI, sans-serif][size=120][nation]Grace Wellesley Thayer[/nation] has become a new member of the South Pacific Coral Guard, please endorse them alongside the Delegate and all other members of the Coral Guard.[/size][/font]
+[/box]
 
 [box][font=Avenir, Segoe UI, sans-serif][size=120]If you are mentioned in this dispatch, this means you are in the World Assembly, congratulations! The first thing to do after joining the WA in our region [region]the South Pacific[/region] is to endorse the Delegate and all member nations of the South Pacific Coral Guard (SPCG). The list of these nations is below. Read below on why you should do this.[/size][/font]
 
